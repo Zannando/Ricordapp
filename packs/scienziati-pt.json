@@ -1,0 +1,131 @@
+{
+ "id": "scienziati-pt",
+ "category": "NAME",
+ "title": "Grandes cientistas",
+ "description": "Quem foram e o que descobriram alguns dos grandes nomes da ciência.",
+ "lang": "",
+ "version": 1,
+ "cards": [
+  {
+   "front": "Galileu Galilei",
+   "date": "1564/1642",
+   "back": "Físico, astrónomo e filósofo italiano, pai do método científico moderno. Com o telescópio descobriu os satélites de Júpiter e as fases de Vénus, em apoio do sistema copernicano; por isso foi julgado pela Inquisição em 1633.",
+   "source": "https://pt.wikipedia.org/wiki/Galileu_Galilei",
+   "sourceTitle": "Wikipedia – Galileu Galilei",
+   "people": [
+    {
+     "role": "Obras",
+     "names": [
+      "Sidereus Nuncius",
+      "Diálogo sobre os dois principais sistemas do mundo"
+     ]
+    }
+   ]
+  },
+  {
+   "front": "Isaac Newton",
+   "date": "1643/1727",
+   "back": "Matemático e físico inglês. Formulou as três leis do movimento e a lei da gravitação universal, e desenvolveu o cálculo infinitesimal ao mesmo tempo que Leibniz.",
+   "source": "https://pt.wikipedia.org/wiki/Isaac_Newton",
+   "sourceTitle": "Wikipedia – Isaac Newton",
+   "people": [
+    {
+     "role": "Obras",
+     "names": [
+      "Philosophiæ Naturalis Principia Mathematica",
+      "Opticks"
+     ]
+    }
+   ]
+  },
+  {
+   "front": "Charles Darwin",
+   "date": "1809/1882",
+   "back": "Naturalista britânico, autor da teoria da evolução por seleção natural, amadurecida durante a sua viagem à volta do mundo a bordo do Beagle.",
+   "source": "https://pt.wikipedia.org/wiki/Charles_Darwin",
+   "sourceTitle": "Wikipedia – Charles Darwin",
+   "people": [
+    {
+     "role": "Obras",
+     "names": [
+      "A Origem das Espécies",
+      "A Origem do Homem"
+     ]
+    }
+   ]
+  },
+  {
+   "front": "Marie Curie",
+   "date": "1867/1934",
+   "back": "Física e química polaca naturalizada francesa, pioneira da radioatividade. Descobriu o polónio e o rádio; foi a primeira pessoa a ganhar dois prémios Nobel, de física (1903) e de química (1911).",
+   "source": "https://pt.wikipedia.org/wiki/Marie_Curie",
+   "sourceTitle": "Wikipedia – Marie Curie"
+  },
+  {
+   "front": "Albert Einstein",
+   "date": "1879/1955",
+   "back": "Físico alemão, depois suíço e norte-americano. Formulou a relatividade restrita e geral e explicou o efeito fotoelétrico, pelo qual recebeu o Nobel da física em 1921.",
+   "source": "https://pt.wikipedia.org/wiki/Albert_Einstein",
+   "sourceTitle": "Wikipedia – Albert Einstein"
+  },
+  {
+   "front": "Gregor Mendel",
+   "date": "1822/1884",
+   "back": "Biólogo e frade agostinho da Boémia. Cruzando ervilheiras, descobriu as leis da hereditariedade, base da genética.",
+   "source": "https://pt.wikipedia.org/wiki/Gregor_Mendel",
+   "sourceTitle": "Wikipedia – Gregor Mendel"
+  },
+  {
+   "front": "Louis Pasteur",
+   "date": "1822/1895",
+   "back": "Químico e microbiologista francês. Demonstrou que as fermentações e muitas doenças são causadas por microrganismos, criou a pasteurização e a vacina contra a raiva.",
+   "source": "https://pt.wikipedia.org/wiki/Louis_Pasteur",
+   "sourceTitle": "Wikipedia – Louis Pasteur"
+  },
+  {
+   "front": "Rosalind Franklin",
+   "date": "1920/1958",
+   "back": "Química britânica. As suas imagens de difração de raios X, como a «fotografia 51», foram decisivas para descobrir a estrutura em dupla hélice do ADN.",
+   "source": "https://pt.wikipedia.org/wiki/Rosalind_Franklin",
+   "sourceTitle": "Wikipedia – Rosalind Franklin"
+  },
+  {
+   "front": "Dmitri Mendeleev",
+   "date": "1834/1907",
+   "back": "Químico russo. Em 1869 ordenou os elementos na tabela periódica, deixando lugares vazios para elementos ainda não descobertos cujas propriedades previu.",
+   "source": "https://pt.wikipedia.org/wiki/Dmitri_Mendeleiev",
+   "sourceTitle": "Wikipedia – Dmitri Mendeleiev"
+  },
+  {
+   "front": "Enrico Fermi",
+   "date": "1901/1954",
+   "back": "Físico italiano, prémio Nobel em 1938. Estudou os neutrões lentos e dirigiu em Chicago a construção da primeira pilha atómica, que em 1942 iniciou a primeira reação nuclear em cadeia controlada.",
+   "source": "https://pt.wikipedia.org/wiki/Enrico_Fermi",
+   "sourceTitle": "Wikipedia – Enrico Fermi"
+  },
+  {
+   "front": "Rita Levi-Montalcini",
+   "date": "1909/2012",
+   "back": "Neurologista italiana. Descobriu o fator de crescimento nervoso (NGF), pelo qual recebeu o prémio Nobel da medicina em 1986; foi senadora vitalícia.",
+   "source": "https://pt.wikipedia.org/wiki/Rita_Levi-Montalcini",
+   "sourceTitle": "Wikipedia – Rita Levi-Montalcini"
+  },
+  {
+   "front": "Nicolau Copérnico",
+   "date": "1473/1543",
+   "back": "Astrónomo polaco. Propôs o modelo heliocêntrico, com o Sol no centro e a Terra a girar à sua volta.",
+   "source": "https://pt.wikipedia.org/wiki/Nicolau_Copérnico",
+   "sourceTitle": "Wikipedia – Nicolau Copérnico",
+   "people": [
+    {
+     "role": "Obras",
+     "names": [
+      "De revolutionibus orbium coelestium"
+     ]
+    }
+   ]
+  }
+ ],
+ "language": "pt",
+ "count": 12
+}

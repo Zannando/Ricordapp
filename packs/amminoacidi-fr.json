@@ -1,0 +1,158 @@
+{
+ "id": "amminoacidi-fr",
+ "category": "CHEMISTRY",
+ "title": "Acides aminés",
+ "description": "Les 20 acides aminés standard : abréviations, caractéristiques et la molécule à construire.",
+ "lang": "",
+ "version": 1,
+ "cards": [
+  {
+   "front": "Acide aminé",
+   "back": "Molécule avec un groupe amine (–NH₂) et un groupe carboxyle (–COOH) liés au même carbone, dit alpha, avec une chaîne latérale R qui le distingue des autres. Reliés en chaîne par des liaisons peptidiques, ils forment les protéines ; les acides aminés standard sont 20.",
+   "source": "https://fr.wikipedia.org/wiki/Acide_aminé",
+   "sourceTitle": "Wikipedia – Acide aminé"
+  },
+  {
+   "front": "Glycine",
+   "parent": "Acide aminé",
+   "back": "Acide aminé apolaire, le plus simple : sa chaîne latérale est un seul atome d'hydrogène, il n'est donc pas chiral. Abréviations Gly et G ; non essentiel : le corps le fabrique.\n\n[molecola: glycine, C2H5NO2, SMILES NCC(=O)O]",
+   "source": "https://fr.wikipedia.org/wiki/Glycine",
+   "sourceTitle": "Wikipedia – Glycine"
+  },
+  {
+   "front": "Alanine",
+   "parent": "Acide aminé",
+   "back": "Acide aminé apolaire, avec un groupe méthyle comme chaîne latérale. Abréviations Ala et A ; non essentiel : le corps le fabrique.\n\n[molecola: L-alanine, C3H7NO2, SMILES C[C@@H](C(=O)O)N]",
+   "source": "https://fr.wikipedia.org/wiki/Alanine",
+   "sourceTitle": "Wikipedia – Alanine"
+  },
+  {
+   "front": "Valine",
+   "parent": "Acide aminé",
+   "back": "Acide aminé apolaire, à chaîne latérale ramifiée. Abréviations Val et V ; essentiel : il doit être apporté par l'alimentation.\n\n[molecola: L-valine, C5H11NO2, SMILES CC(C)[C@@H](C(=O)O)N]",
+   "source": "https://fr.wikipedia.org/wiki/Valine",
+   "sourceTitle": "Wikipedia – Valine"
+  },
+  {
+   "front": "Leucine",
+   "parent": "Acide aminé",
+   "back": "Acide aminé apolaire, à chaîne latérale ramifiée. Abréviations Leu et L ; essentiel : il doit être apporté par l'alimentation.\n\n[molecola: L-leucine, C6H13NO2, SMILES CC(C)C[C@@H](C(=O)O)N]",
+   "source": "https://fr.wikipedia.org/wiki/Leucine",
+   "sourceTitle": "Wikipedia – Leucine"
+  },
+  {
+   "front": "Isoleucine",
+   "parent": "Acide aminé",
+   "back": "Acide aminé apolaire, isomère de la leucine, avec deux centres chiraux. Abréviations Ile et I ; essentiel : il doit être apporté par l'alimentation.\n\n[molecola: L-isoleucine, C6H13NO2, SMILES CC[C@H](C)[C@@H](C(=O)O)N]",
+   "source": "https://fr.wikipedia.org/wiki/Isoleucine",
+   "sourceTitle": "Wikipedia – Isoleucine"
+  },
+  {
+   "front": "Proline",
+   "parent": "Acide aminé",
+   "back": "Acide aminé apolaire ; sa chaîne latérale se referme en cycle sur l'azote, ce qui courbe les chaînes protéiques. Abréviations Pro et P ; non essentiel : le corps le fabrique.\n\n[molecola: L-proline, C5H9NO2, SMILES C1C[C@H](NC1)C(=O)O]",
+   "source": "https://fr.wikipedia.org/wiki/Proline",
+   "sourceTitle": "Wikipedia – Proline"
+  },
+  {
+   "front": "Phénylalanine",
+   "parent": "Acide aminé",
+   "back": "Acide aminé apolaire et aromatique, avec un cycle benzénique. Abréviations Phe et F ; essentiel : il doit être apporté par l'alimentation.\n\n[molecola: L-phénylalanine, C9H11NO2, SMILES C1=CC=C(C=C1)C[C@@H](C(=O)O)N]",
+   "source": "https://fr.wikipedia.org/wiki/Phénylalanine",
+   "sourceTitle": "Wikipedia – Phénylalanine"
+  },
+  {
+   "front": "Tryptophane",
+   "parent": "Acide aminé",
+   "back": "Acide aminé aromatique, avec un noyau indole ; c'est le précurseur de la sérotonine. Abréviations Trp et W ; essentiel : il doit être apporté par l'alimentation.\n\n[molecola: L-tryptophane, C11H12N2O2, SMILES C1=CC=C2C(=C1)C(=CN2)C[C@@H](C(=O)O)N]",
+   "source": "https://fr.wikipedia.org/wiki/Tryptophane",
+   "sourceTitle": "Wikipedia – Tryptophane"
+  },
+  {
+   "front": "Méthionine",
+   "parent": "Acide aminé",
+   "back": "Acide aminé apolaire et soufré ; son codon AUG lance la synthèse des protéines. Abréviations Met et M ; essentiel : il doit être apporté par l'alimentation.\n\n[molecola: L-méthionine, C5H11NO2S, SMILES CSCC[C@@H](C(=O)O)N]",
+   "source": "https://fr.wikipedia.org/wiki/Méthionine",
+   "sourceTitle": "Wikipedia – Méthionine"
+  },
+  {
+   "front": "Sérine",
+   "parent": "Acide aminé",
+   "back": "Acide aminé polaire, avec un groupe hydroxyle. Abréviations Ser et S ; non essentiel : le corps le fabrique.\n\n[molecola: L-sérine, C3H7NO3, SMILES C([C@@H](C(=O)O)N)O]",
+   "source": "https://fr.wikipedia.org/wiki/Sérine",
+   "sourceTitle": "Wikipedia – Sérine"
+  },
+  {
+   "front": "Thréonine",
+   "parent": "Acide aminé",
+   "back": "Acide aminé polaire, avec un groupe hydroxyle et deux centres chiraux. Abréviations Thr et T ; essentiel : il doit être apporté par l'alimentation.\n\n[molecola: L-thréonine, C4H9NO3, SMILES C[C@H]([C@@H](C(=O)O)N)O]",
+   "source": "https://fr.wikipedia.org/wiki/Thréonine",
+   "sourceTitle": "Wikipedia – Thréonine"
+  },
+  {
+   "front": "Cystéine",
+   "parent": "Acide aminé",
+   "back": "Acide aminé polaire, avec un groupe thiol qui forme des ponts disulfure dans les protéines. Abréviations Cys et C ; non essentiel : le corps le fabrique.\n\n[molecola: L-cystéine, C3H7NO2S, SMILES C([C@@H](C(=O)O)N)S]",
+   "source": "https://fr.wikipedia.org/wiki/Cystéine",
+   "sourceTitle": "Wikipedia – Cystéine"
+  },
+  {
+   "front": "Tyrosine",
+   "parent": "Acide aminé",
+   "back": "Acide aminé polaire et aromatique, avec un cycle phénol ; c'est le précurseur de la dopamine et de l'adrénaline. Abréviations Tyr et Y ; non essentiel : le corps le fabrique.\n\n[molecola: L-tyrosine, C9H11NO3, SMILES C1=CC(=CC=C1C[C@@H](C(=O)O)N)O]",
+   "source": "https://fr.wikipedia.org/wiki/Tyrosine",
+   "sourceTitle": "Wikipedia – Tyrosine"
+  },
+  {
+   "front": "Asparagine",
+   "parent": "Acide aminé",
+   "back": "Acide aminé polaire, avec un groupe amide. Abréviations Asn et N ; non essentiel : le corps le fabrique.\n\n[molecola: L-asparagine, C4H8N2O3, SMILES C([C@@H](C(=O)O)N)C(=O)N]",
+   "source": "https://fr.wikipedia.org/wiki/Asparagine",
+   "sourceTitle": "Wikipedia – Asparagine"
+  },
+  {
+   "front": "Glutamine",
+   "parent": "Acide aminé",
+   "back": "Acide aminé polaire, avec un groupe amide. Abréviations Gln et Q ; non essentiel : le corps le fabrique.\n\n[molecola: L-glutamine, C5H10N2O3, SMILES C(CC(=O)N)[C@@H](C(=O)O)N]",
+   "source": "https://fr.wikipedia.org/wiki/Glutamine",
+   "sourceTitle": "Wikipedia – Glutamine"
+  },
+  {
+   "front": "Acide aspartique",
+   "parent": "Acide aminé",
+   "back": "Acide aminé acide, avec un second groupe carboxyle (sous forme d'ion, on l'appelle aspartate). Abréviations Asp et D ; non essentiel : le corps le fabrique.\n\n[molecola: acide L-aspartique, C4H7NO4, SMILES C([C@@H](C(=O)O)N)C(=O)O]",
+   "source": "https://fr.wikipedia.org/wiki/Acide_aspartique",
+   "sourceTitle": "Wikipedia – Acide aspartique"
+  },
+  {
+   "front": "Acide glutamique",
+   "parent": "Acide aminé",
+   "back": "Acide aminé acide (sous forme d'ion, on l'appelle glutamate) ; c'est aussi un neurotransmetteur. Abréviations Glu et E ; non essentiel : le corps le fabrique.\n\n[molecola: acide L-glutamique, C5H9NO4, SMILES C(CC(=O)O)[C@@H](C(=O)O)N]",
+   "source": "https://fr.wikipedia.org/wiki/Acide_glutamique",
+   "sourceTitle": "Wikipedia – Acide glutamique"
+  },
+  {
+   "front": "Lysine",
+   "parent": "Acide aminé",
+   "back": "Acide aminé basique, avec un groupe amine au bout de sa chaîne latérale. Abréviations Lys et K ; essentiel : il doit être apporté par l'alimentation.\n\n[molecola: L-lysine, C6H14N2O2, SMILES C(CCN)C[C@@H](C(=O)O)N]",
+   "source": "https://fr.wikipedia.org/wiki/Lysine",
+   "sourceTitle": "Wikipedia – Lysine"
+  },
+  {
+   "front": "Arginine",
+   "parent": "Acide aminé",
+   "back": "Acide aminé basique, avec un groupe guanidine. Abréviations Arg et R ; non essentiel : le corps le fabrique.\n\n[molecola: L-arginine, C6H14N4O2, SMILES C(C[C@@H](C(=O)O)N)CN=C(N)N]",
+   "source": "https://fr.wikipedia.org/wiki/Arginine",
+   "sourceTitle": "Wikipedia – Arginine"
+  },
+  {
+   "front": "Histidine",
+   "parent": "Acide aminé",
+   "back": "Acide aminé basique, avec un cycle imidazole ; souvent dans le site actif des enzymes. Abréviations His et H ; essentiel : il doit être apporté par l'alimentation.\n\n[molecola: L-histidine, C6H9N3O2, SMILES C1=C(NC=N1)C[C@@H](C(=O)O)N]",
+   "source": "https://fr.wikipedia.org/wiki/Histidine",
+   "sourceTitle": "Wikipedia – Histidine"
+  }
+ ],
+ "language": "fr",
+ "count": 21
+}

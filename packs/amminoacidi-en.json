@@ -1,0 +1,158 @@
+{
+ "id": "amminoacidi-en",
+ "category": "CHEMISTRY",
+ "title": "Amino acids",
+ "description": "The 20 standard amino acids: abbreviations, features and the molecule to build.",
+ "lang": "",
+ "version": 1,
+ "cards": [
+  {
+   "front": "Amino acid",
+   "back": "A molecule with an amino group (–NH₂) and a carboxyl group (–COOH) bonded to the same carbon, called alpha, together with a side chain R that sets it apart from the others. Linked in chains by peptide bonds they form proteins; the standard ones are 20.",
+   "source": "https://en.wikipedia.org/wiki/Amino_acid",
+   "sourceTitle": "Wikipedia – Amino acid"
+  },
+  {
+   "front": "Glycine",
+   "parent": "Amino acid",
+   "back": "Amino acid: nonpolar, the simplest: its side chain is a single hydrogen atom, so it is not chiral. Abbreviations Gly and G; non-essential: the body makes it.\n\n[molecola: glycine, C2H5NO2, SMILES NCC(=O)O]",
+   "source": "https://en.wikipedia.org/wiki/Glycine",
+   "sourceTitle": "Wikipedia – Glycine"
+  },
+  {
+   "front": "Alanine",
+   "parent": "Amino acid",
+   "back": "Amino acid: nonpolar, with a methyl group as side chain. Abbreviations Ala and A; non-essential: the body makes it.\n\n[molecola: L-alanine, C3H7NO2, SMILES C[C@@H](C(=O)O)N]",
+   "source": "https://en.wikipedia.org/wiki/Alanine",
+   "sourceTitle": "Wikipedia – Alanine"
+  },
+  {
+   "front": "Valine",
+   "parent": "Amino acid",
+   "back": "Amino acid: nonpolar, with a branched side chain. Abbreviations Val and V; essential: it must come from the diet.\n\n[molecola: L-valine, C5H11NO2, SMILES CC(C)[C@@H](C(=O)O)N]",
+   "source": "https://en.wikipedia.org/wiki/Valine",
+   "sourceTitle": "Wikipedia – Valine"
+  },
+  {
+   "front": "Leucine",
+   "parent": "Amino acid",
+   "back": "Amino acid: nonpolar, with a branched side chain. Abbreviations Leu and L; essential: it must come from the diet.\n\n[molecola: L-leucine, C6H13NO2, SMILES CC(C)C[C@@H](C(=O)O)N]",
+   "source": "https://en.wikipedia.org/wiki/Leucine",
+   "sourceTitle": "Wikipedia – Leucine"
+  },
+  {
+   "front": "Isoleucine",
+   "parent": "Amino acid",
+   "back": "Amino acid: nonpolar, an isomer of leucine, with two chiral centres. Abbreviations Ile and I; essential: it must come from the diet.\n\n[molecola: L-isoleucine, C6H13NO2, SMILES CC[C@H](C)[C@@H](C(=O)O)N]",
+   "source": "https://en.wikipedia.org/wiki/Isoleucine",
+   "sourceTitle": "Wikipedia – Isoleucine"
+  },
+  {
+   "front": "Proline",
+   "parent": "Amino acid",
+   "back": "Amino acid: nonpolar; its side chain closes into a ring on the nitrogen, which is why it bends protein chains. Abbreviations Pro and P; non-essential: the body makes it.\n\n[molecola: L-proline, C5H9NO2, SMILES C1C[C@H](NC1)C(=O)O]",
+   "source": "https://en.wikipedia.org/wiki/Proline",
+   "sourceTitle": "Wikipedia – Proline"
+  },
+  {
+   "front": "Phenylalanine",
+   "parent": "Amino acid",
+   "back": "Amino acid: nonpolar and aromatic, with a benzene ring. Abbreviations Phe and F; essential: it must come from the diet.\n\n[molecola: L-phenylalanine, C9H11NO2, SMILES C1=CC=C(C=C1)C[C@@H](C(=O)O)N]",
+   "source": "https://en.wikipedia.org/wiki/Phenylalanine",
+   "sourceTitle": "Wikipedia – Phenylalanine"
+  },
+  {
+   "front": "Tryptophan",
+   "parent": "Amino acid",
+   "back": "Amino acid: aromatic, with an indole ring; it is the precursor of serotonin. Abbreviations Trp and W; essential: it must come from the diet.\n\n[molecola: L-tryptophan, C11H12N2O2, SMILES C1=CC=C2C(=C1)C(=CN2)C[C@@H](C(=O)O)N]",
+   "source": "https://en.wikipedia.org/wiki/Tryptophan",
+   "sourceTitle": "Wikipedia – Tryptophan"
+  },
+  {
+   "front": "Methionine",
+   "parent": "Amino acid",
+   "back": "Amino acid: nonpolar and sulfur-containing; its codon AUG starts protein synthesis. Abbreviations Met and M; essential: it must come from the diet.\n\n[molecola: L-methionine, C5H11NO2S, SMILES CSCC[C@@H](C(=O)O)N]",
+   "source": "https://en.wikipedia.org/wiki/Methionine",
+   "sourceTitle": "Wikipedia – Methionine"
+  },
+  {
+   "front": "Serine",
+   "parent": "Amino acid",
+   "back": "Amino acid: polar, with a hydroxyl group. Abbreviations Ser and S; non-essential: the body makes it.\n\n[molecola: L-serine, C3H7NO3, SMILES C([C@@H](C(=O)O)N)O]",
+   "source": "https://en.wikipedia.org/wiki/Serine",
+   "sourceTitle": "Wikipedia – Serine"
+  },
+  {
+   "front": "Threonine",
+   "parent": "Amino acid",
+   "back": "Amino acid: polar, with a hydroxyl group and two chiral centres. Abbreviations Thr and T; essential: it must come from the diet.\n\n[molecola: L-threonine, C4H9NO3, SMILES C[C@H]([C@@H](C(=O)O)N)O]",
+   "source": "https://en.wikipedia.org/wiki/Threonine",
+   "sourceTitle": "Wikipedia – Threonine"
+  },
+  {
+   "front": "Cysteine",
+   "parent": "Amino acid",
+   "back": "Amino acid: polar, with a thiol group that forms disulfide bridges in proteins. Abbreviations Cys and C; non-essential: the body makes it.\n\n[molecola: L-cysteine, C3H7NO2S, SMILES C([C@@H](C(=O)O)N)S]",
+   "source": "https://en.wikipedia.org/wiki/Cysteine",
+   "sourceTitle": "Wikipedia – Cysteine"
+  },
+  {
+   "front": "Tyrosine",
+   "parent": "Amino acid",
+   "back": "Amino acid: polar and aromatic, with a phenol ring; it is the precursor of dopamine and adrenaline. Abbreviations Tyr and Y; non-essential: the body makes it.\n\n[molecola: L-tyrosine, C9H11NO3, SMILES C1=CC(=CC=C1C[C@@H](C(=O)O)N)O]",
+   "source": "https://en.wikipedia.org/wiki/Tyrosine",
+   "sourceTitle": "Wikipedia – Tyrosine"
+  },
+  {
+   "front": "Asparagine",
+   "parent": "Amino acid",
+   "back": "Amino acid: polar, with an amide group. Abbreviations Asn and N; non-essential: the body makes it.\n\n[molecola: L-asparagine, C4H8N2O3, SMILES C([C@@H](C(=O)O)N)C(=O)N]",
+   "source": "https://en.wikipedia.org/wiki/Asparagine",
+   "sourceTitle": "Wikipedia – Asparagine"
+  },
+  {
+   "front": "Glutamine",
+   "parent": "Amino acid",
+   "back": "Amino acid: polar, with an amide group. Abbreviations Gln and Q; non-essential: the body makes it.\n\n[molecola: L-glutamine, C5H10N2O3, SMILES C(CC(=O)N)[C@@H](C(=O)O)N]",
+   "source": "https://en.wikipedia.org/wiki/Glutamine",
+   "sourceTitle": "Wikipedia – Glutamine"
+  },
+  {
+   "front": "Aspartic acid",
+   "parent": "Amino acid",
+   "back": "Amino acid: acidic, with a second carboxyl group (as an ion it is called aspartate). Abbreviations Asp and D; non-essential: the body makes it.\n\n[molecola: L-aspartic acid, C4H7NO4, SMILES C([C@@H](C(=O)O)N)C(=O)O]",
+   "source": "https://en.wikipedia.org/wiki/Aspartic_acid",
+   "sourceTitle": "Wikipedia – Aspartic acid"
+  },
+  {
+   "front": "Glutamic acid",
+   "parent": "Amino acid",
+   "back": "Amino acid: acidic (as an ion it is called glutamate); it is also a neurotransmitter. Abbreviations Glu and E; non-essential: the body makes it.\n\n[molecola: L-glutamic acid, C5H9NO4, SMILES C(CC(=O)O)[C@@H](C(=O)O)N]",
+   "source": "https://en.wikipedia.org/wiki/Glutamic_acid",
+   "sourceTitle": "Wikipedia – Glutamic acid"
+  },
+  {
+   "front": "Lysine",
+   "parent": "Amino acid",
+   "back": "Amino acid: basic, with an amino group at the end of its side chain. Abbreviations Lys and K; essential: it must come from the diet.\n\n[molecola: L-lysine, C6H14N2O2, SMILES C(CCN)C[C@@H](C(=O)O)N]",
+   "source": "https://en.wikipedia.org/wiki/Lysine",
+   "sourceTitle": "Wikipedia – Lysine"
+  },
+  {
+   "front": "Arginine",
+   "parent": "Amino acid",
+   "back": "Amino acid: basic, with a guanidino group. Abbreviations Arg and R; non-essential: the body makes it.\n\n[molecola: L-arginine, C6H14N4O2, SMILES C(C[C@@H](C(=O)O)N)CN=C(N)N]",
+   "source": "https://en.wikipedia.org/wiki/Arginine",
+   "sourceTitle": "Wikipedia – Arginine"
+  },
+  {
+   "front": "Histidine",
+   "parent": "Amino acid",
+   "back": "Amino acid: basic, with an imidazole ring; often in the active site of enzymes. Abbreviations His and H; essential: it must come from the diet.\n\n[molecola: L-histidine, C6H9N3O2, SMILES C1=C(NC=N1)C[C@@H](C(=O)O)N]",
+   "source": "https://en.wikipedia.org/wiki/Histidine",
+   "sourceTitle": "Wikipedia – Histidine"
+  }
+ ],
+ "language": "en",
+ "count": 21
+}

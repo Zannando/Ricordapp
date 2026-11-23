@@ -1,0 +1,158 @@
+{
+ "id": "amminoacidi-pt",
+ "category": "CHEMISTRY",
+ "title": "Aminoácidos",
+ "description": "Os 20 aminoácidos padrão: abreviaturas, características e a molécula para construir.",
+ "lang": "",
+ "version": 1,
+ "cards": [
+  {
+   "front": "Aminoácido",
+   "back": "Molécula com um grupo amina (–NH₂) e um grupo carboxilo (–COOH) ligados ao mesmo carbono, chamado alfa, junto com uma cadeia lateral R que o distingue dos outros. Ligados em cadeia por ligações peptídicas formam as proteínas; os padrão são 20.",
+   "source": "https://pt.wikipedia.org/wiki/Aminoácido",
+   "sourceTitle": "Wikipedia – Aminoácido"
+  },
+  {
+   "front": "Glicina",
+   "parent": "Aminoácido",
+   "back": "Aminoácido apolar, o mais simples: a cadeia lateral é um só átomo de hidrogénio, por isso não é quiral. Abreviaturas Gly e G; não essencial: o corpo produ-lo.\n\n[molecola: glicina, C2H5NO2, SMILES NCC(=O)O]",
+   "source": "https://pt.wikipedia.org/wiki/Glicina",
+   "sourceTitle": "Wikipedia – Glicina"
+  },
+  {
+   "front": "Alanina",
+   "parent": "Aminoácido",
+   "back": "Aminoácido apolar, com um grupo metilo como cadeia lateral. Abreviaturas Ala e A; não essencial: o corpo produ-lo.\n\n[molecola: L-alanina, C3H7NO2, SMILES C[C@@H](C(=O)O)N]",
+   "source": "https://pt.wikipedia.org/wiki/Alanina",
+   "sourceTitle": "Wikipedia – Alanina"
+  },
+  {
+   "front": "Valina",
+   "parent": "Aminoácido",
+   "back": "Aminoácido apolar, com cadeia lateral ramificada. Abreviaturas Val e V; essencial: tem de vir da alimentação.\n\n[molecola: L-valina, C5H11NO2, SMILES CC(C)[C@@H](C(=O)O)N]",
+   "source": "https://pt.wikipedia.org/wiki/Valina",
+   "sourceTitle": "Wikipedia – Valina"
+  },
+  {
+   "front": "Leucina",
+   "parent": "Aminoácido",
+   "back": "Aminoácido apolar, com cadeia lateral ramificada. Abreviaturas Leu e L; essencial: tem de vir da alimentação.\n\n[molecola: L-leucina, C6H13NO2, SMILES CC(C)C[C@@H](C(=O)O)N]",
+   "source": "https://pt.wikipedia.org/wiki/Leucina",
+   "sourceTitle": "Wikipedia – Leucina"
+  },
+  {
+   "front": "Isoleucina",
+   "parent": "Aminoácido",
+   "back": "Aminoácido apolar, isómero da leucina, com dois centros quirais. Abreviaturas Ile e I; essencial: tem de vir da alimentação.\n\n[molecola: L-isoleucina, C6H13NO2, SMILES CC[C@H](C)[C@@H](C(=O)O)N]",
+   "source": "https://pt.wikipedia.org/wiki/Isoleucina",
+   "sourceTitle": "Wikipedia – Isoleucina"
+  },
+  {
+   "front": "Prolina",
+   "parent": "Aminoácido",
+   "back": "Aminoácido apolar; a cadeia lateral fecha-se em anel sobre o azoto, e por isso dobra as cadeias proteicas. Abreviaturas Pro e P; não essencial: o corpo produ-lo.\n\n[molecola: L-prolina, C5H9NO2, SMILES C1C[C@H](NC1)C(=O)O]",
+   "source": "https://pt.wikipedia.org/wiki/Prolina",
+   "sourceTitle": "Wikipedia – Prolina"
+  },
+  {
+   "front": "Fenilalanina",
+   "parent": "Aminoácido",
+   "back": "Aminoácido apolar e aromático, com um anel benzénico. Abreviaturas Phe e F; essencial: tem de vir da alimentação.\n\n[molecola: L-fenilalanina, C9H11NO2, SMILES C1=CC=C(C=C1)C[C@@H](C(=O)O)N]",
+   "source": "https://pt.wikipedia.org/wiki/Fenilalanina",
+   "sourceTitle": "Wikipedia – Fenilalanina"
+  },
+  {
+   "front": "Triptofano",
+   "parent": "Aminoácido",
+   "back": "Aminoácido aromático, com um anel indólico; é o precursor da serotonina. Abreviaturas Trp e W; essencial: tem de vir da alimentação.\n\n[molecola: L-triptofano, C11H12N2O2, SMILES C1=CC=C2C(=C1)C(=CN2)C[C@@H](C(=O)O)N]",
+   "source": "https://pt.wikipedia.org/wiki/Triptofano",
+   "sourceTitle": "Wikipedia – Triptofano"
+  },
+  {
+   "front": "Metionina",
+   "parent": "Aminoácido",
+   "back": "Aminoácido apolar e sulfurado; o seu codão AUG dá início à síntese das proteínas. Abreviaturas Met e M; essencial: tem de vir da alimentação.\n\n[molecola: L-metionina, C5H11NO2S, SMILES CSCC[C@@H](C(=O)O)N]",
+   "source": "https://pt.wikipedia.org/wiki/Metionina",
+   "sourceTitle": "Wikipedia – Metionina"
+  },
+  {
+   "front": "Serina",
+   "parent": "Aminoácido",
+   "back": "Aminoácido polar, com um grupo hidroxilo. Abreviaturas Ser e S; não essencial: o corpo produ-lo.\n\n[molecola: L-serina, C3H7NO3, SMILES C([C@@H](C(=O)O)N)O]",
+   "source": "https://pt.wikipedia.org/wiki/Serina",
+   "sourceTitle": "Wikipedia – Serina"
+  },
+  {
+   "front": "Treonina",
+   "parent": "Aminoácido",
+   "back": "Aminoácido polar, com um grupo hidroxilo e dois centros quirais. Abreviaturas Thr e T; essencial: tem de vir da alimentação.\n\n[molecola: L-treonina, C4H9NO3, SMILES C[C@H]([C@@H](C(=O)O)N)O]",
+   "source": "https://pt.wikipedia.org/wiki/Treonina",
+   "sourceTitle": "Wikipedia – Treonina"
+  },
+  {
+   "front": "Cisteína",
+   "parent": "Aminoácido",
+   "back": "Aminoácido polar, com um grupo tiol que forma pontes dissulfureto nas proteínas. Abreviaturas Cys e C; não essencial: o corpo produ-lo.\n\n[molecola: L-cisteína, C3H7NO2S, SMILES C([C@@H](C(=O)O)N)S]",
+   "source": "https://pt.wikipedia.org/wiki/Cisteína",
+   "sourceTitle": "Wikipedia – Cisteína"
+  },
+  {
+   "front": "Tirosina",
+   "parent": "Aminoácido",
+   "back": "Aminoácido polar e aromático, com um anel fenólico; é o precursor da dopamina e da adrenalina. Abreviaturas Tyr e Y; não essencial: o corpo produ-lo.\n\n[molecola: L-tirosina, C9H11NO3, SMILES C1=CC(=CC=C1C[C@@H](C(=O)O)N)O]",
+   "source": "https://pt.wikipedia.org/wiki/Tirosina",
+   "sourceTitle": "Wikipedia – Tirosina"
+  },
+  {
+   "front": "Asparagina",
+   "parent": "Aminoácido",
+   "back": "Aminoácido polar, com um grupo amida. Abreviaturas Asn e N; não essencial: o corpo produ-lo.\n\n[molecola: L-asparagina, C4H8N2O3, SMILES C([C@@H](C(=O)O)N)C(=O)N]",
+   "source": "https://pt.wikipedia.org/wiki/Asparagina",
+   "sourceTitle": "Wikipedia – Asparagina"
+  },
+  {
+   "front": "Glutamina",
+   "parent": "Aminoácido",
+   "back": "Aminoácido polar, com um grupo amida. Abreviaturas Gln e Q; não essencial: o corpo produ-lo.\n\n[molecola: L-glutamina, C5H10N2O3, SMILES C(CC(=O)N)[C@@H](C(=O)O)N]",
+   "source": "https://pt.wikipedia.org/wiki/Glutamina",
+   "sourceTitle": "Wikipedia – Glutamina"
+  },
+  {
+   "front": "Ácido aspártico",
+   "parent": "Aminoácido",
+   "back": "Aminoácido ácido, com um segundo grupo carboxilo (como ião chama-se aspartato). Abreviaturas Asp e D; não essencial: o corpo produ-lo.\n\n[molecola: ácido L-aspártico, C4H7NO4, SMILES C([C@@H](C(=O)O)N)C(=O)O]",
+   "source": "https://pt.wikipedia.org/wiki/Ácido_aspártico",
+   "sourceTitle": "Wikipedia – Ácido aspártico"
+  },
+  {
+   "front": "Ácido glutâmico",
+   "parent": "Aminoácido",
+   "back": "Aminoácido ácido (como ião chama-se glutamato); é também um neurotransmissor. Abreviaturas Glu e E; não essencial: o corpo produ-lo.\n\n[molecola: ácido L-glutâmico, C5H9NO4, SMILES C(CC(=O)O)[C@@H](C(=O)O)N]",
+   "source": "https://pt.wikipedia.org/wiki/Ácido_glutâmico",
+   "sourceTitle": "Wikipedia – Ácido glutâmico"
+  },
+  {
+   "front": "Lisina",
+   "parent": "Aminoácido",
+   "back": "Aminoácido básico, com um grupo amina no fim da cadeia lateral. Abreviaturas Lys e K; essencial: tem de vir da alimentação.\n\n[molecola: L-lisina, C6H14N2O2, SMILES C(CCN)C[C@@H](C(=O)O)N]",
+   "source": "https://pt.wikipedia.org/wiki/Lisina",
+   "sourceTitle": "Wikipedia – Lisina"
+  },
+  {
+   "front": "Arginina",
+   "parent": "Aminoácido",
+   "back": "Aminoácido básico, com um grupo guanidina. Abreviaturas Arg e R; não essencial: o corpo produ-lo.\n\n[molecola: L-arginina, C6H14N4O2, SMILES C(C[C@@H](C(=O)O)N)CN=C(N)N]",
+   "source": "https://pt.wikipedia.org/wiki/Arginina",
+   "sourceTitle": "Wikipedia – Arginina"
+  },
+  {
+   "front": "Histidina",
+   "parent": "Aminoácido",
+   "back": "Aminoácido básico, com um anel imidazol; muitas vezes no centro ativo das enzimas. Abreviaturas His e H; essencial: tem de vir da alimentação.\n\n[molecola: L-histidina, C6H9N3O2, SMILES C1=C(NC=N1)C[C@@H](C(=O)O)N]",
+   "source": "https://pt.wikipedia.org/wiki/Histidina",
+   "sourceTitle": "Wikipedia – Histidina"
+  }
+ ],
+ "language": "pt",
+ "count": 21
+}

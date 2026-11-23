@@ -1,0 +1,158 @@
+{
+ "id": "amminoacidi-de",
+ "category": "CHEMISTRY",
+ "title": "Aminosäuren",
+ "description": "Die 20 Standard-Aminosäuren: Abkürzungen, Eigenschaften und das Molekül zum Bauen.",
+ "lang": "",
+ "version": 1,
+ "cards": [
+  {
+   "front": "Aminosäure",
+   "back": "Molekül mit einer Aminogruppe (–NH₂) und einer Carboxygruppe (–COOH) am selben Kohlenstoffatom, dem Alpha-Kohlenstoff, dazu eine Seitenkette R, die sie von den anderen unterscheidet. Über Peptidbindungen zu Ketten verknüpft, bilden sie die Proteine; es gibt 20 Standard-Aminosäuren.",
+   "source": "https://de.wikipedia.org/wiki/Aminosäuren",
+   "sourceTitle": "Wikipedia – Aminosäuren"
+  },
+  {
+   "front": "Glycin",
+   "parent": "Aminosäure",
+   "back": "Aminosäure: unpolar, die einfachste: die Seitenkette ist ein einziges Wasserstoffatom, daher ist sie nicht chiral. Abkürzungen Gly und G; nicht essenziell: der Körper stellt sie selbst her.\n\n[molecola: Glycin, C2H5NO2, SMILES NCC(=O)O]",
+   "source": "https://de.wikipedia.org/wiki/Glycin",
+   "sourceTitle": "Wikipedia – Glycin"
+  },
+  {
+   "front": "Alanin",
+   "parent": "Aminosäure",
+   "back": "Aminosäure: unpolar, mit einer Methylgruppe als Seitenkette. Abkürzungen Ala und A; nicht essenziell: der Körper stellt sie selbst her.\n\n[molecola: L-Alanin, C3H7NO2, SMILES C[C@@H](C(=O)O)N]",
+   "source": "https://de.wikipedia.org/wiki/Alanin",
+   "sourceTitle": "Wikipedia – Alanin"
+  },
+  {
+   "front": "Valin",
+   "parent": "Aminosäure",
+   "back": "Aminosäure: unpolar, mit verzweigter Seitenkette. Abkürzungen Val und V; essenziell: muss mit der Nahrung aufgenommen werden.\n\n[molecola: L-Valin, C5H11NO2, SMILES CC(C)[C@@H](C(=O)O)N]",
+   "source": "https://de.wikipedia.org/wiki/Valin",
+   "sourceTitle": "Wikipedia – Valin"
+  },
+  {
+   "front": "Leucin",
+   "parent": "Aminosäure",
+   "back": "Aminosäure: unpolar, mit verzweigter Seitenkette. Abkürzungen Leu und L; essenziell: muss mit der Nahrung aufgenommen werden.\n\n[molecola: L-Leucin, C6H13NO2, SMILES CC(C)C[C@@H](C(=O)O)N]",
+   "source": "https://de.wikipedia.org/wiki/Leucin",
+   "sourceTitle": "Wikipedia – Leucin"
+  },
+  {
+   "front": "Isoleucin",
+   "parent": "Aminosäure",
+   "back": "Aminosäure: unpolar, ein Isomer des Leucins, mit zwei Chiralitätszentren. Abkürzungen Ile und I; essenziell: muss mit der Nahrung aufgenommen werden.\n\n[molecola: L-Isoleucin, C6H13NO2, SMILES CC[C@H](C)[C@@H](C(=O)O)N]",
+   "source": "https://de.wikipedia.org/wiki/Isoleucin",
+   "sourceTitle": "Wikipedia – Isoleucin"
+  },
+  {
+   "front": "Prolin",
+   "parent": "Aminosäure",
+   "back": "Aminosäure: unpolar; die Seitenkette schließt sich zum Ring am Stickstoff und knickt daher Proteinketten. Abkürzungen Pro und P; nicht essenziell: der Körper stellt sie selbst her.\n\n[molecola: L-Prolin, C5H9NO2, SMILES C1C[C@H](NC1)C(=O)O]",
+   "source": "https://de.wikipedia.org/wiki/Prolin",
+   "sourceTitle": "Wikipedia – Prolin"
+  },
+  {
+   "front": "Phenylalanin",
+   "parent": "Aminosäure",
+   "back": "Aminosäure: unpolar und aromatisch, mit einem Benzolring. Abkürzungen Phe und F; essenziell: muss mit der Nahrung aufgenommen werden.\n\n[molecola: L-Phenylalanin, C9H11NO2, SMILES C1=CC=C(C=C1)C[C@@H](C(=O)O)N]",
+   "source": "https://de.wikipedia.org/wiki/Phenylalanin",
+   "sourceTitle": "Wikipedia – Phenylalanin"
+  },
+  {
+   "front": "Tryptophan",
+   "parent": "Aminosäure",
+   "back": "Aminosäure: aromatisch, mit einem Indolring; Vorstufe des Serotonins. Abkürzungen Trp und W; essenziell: muss mit der Nahrung aufgenommen werden.\n\n[molecola: L-Tryptophan, C11H12N2O2, SMILES C1=CC=C2C(=C1)C(=CN2)C[C@@H](C(=O)O)N]",
+   "source": "https://de.wikipedia.org/wiki/Tryptophan",
+   "sourceTitle": "Wikipedia – Tryptophan"
+  },
+  {
+   "front": "Methionin",
+   "parent": "Aminosäure",
+   "back": "Aminosäure: unpolar und schwefelhaltig; sein Codon AUG startet die Proteinsynthese. Abkürzungen Met und M; essenziell: muss mit der Nahrung aufgenommen werden.\n\n[molecola: L-Methionin, C5H11NO2S, SMILES CSCC[C@@H](C(=O)O)N]",
+   "source": "https://de.wikipedia.org/wiki/Methionin",
+   "sourceTitle": "Wikipedia – Methionin"
+  },
+  {
+   "front": "Serin",
+   "parent": "Aminosäure",
+   "back": "Aminosäure: polar, mit einer Hydroxygruppe. Abkürzungen Ser und S; nicht essenziell: der Körper stellt sie selbst her.\n\n[molecola: L-Serin, C3H7NO3, SMILES C([C@@H](C(=O)O)N)O]",
+   "source": "https://de.wikipedia.org/wiki/Serin",
+   "sourceTitle": "Wikipedia – Serin"
+  },
+  {
+   "front": "Threonin",
+   "parent": "Aminosäure",
+   "back": "Aminosäure: polar, mit einer Hydroxygruppe und zwei Chiralitätszentren. Abkürzungen Thr und T; essenziell: muss mit der Nahrung aufgenommen werden.\n\n[molecola: L-Threonin, C4H9NO3, SMILES C[C@H]([C@@H](C(=O)O)N)O]",
+   "source": "https://de.wikipedia.org/wiki/Threonin",
+   "sourceTitle": "Wikipedia – Threonin"
+  },
+  {
+   "front": "Cystein",
+   "parent": "Aminosäure",
+   "back": "Aminosäure: polar, mit einer Thiolgruppe, die in Proteinen Disulfidbrücken bildet. Abkürzungen Cys und C; nicht essenziell: der Körper stellt sie selbst her.\n\n[molecola: L-Cystein, C3H7NO2S, SMILES C([C@@H](C(=O)O)N)S]",
+   "source": "https://de.wikipedia.org/wiki/Cystein",
+   "sourceTitle": "Wikipedia – Cystein"
+  },
+  {
+   "front": "Tyrosin",
+   "parent": "Aminosäure",
+   "back": "Aminosäure: polar und aromatisch, mit einem Phenolring; Vorstufe von Dopamin und Adrenalin. Abkürzungen Tyr und Y; nicht essenziell: der Körper stellt sie selbst her.\n\n[molecola: L-Tyrosin, C9H11NO3, SMILES C1=CC(=CC=C1C[C@@H](C(=O)O)N)O]",
+   "source": "https://de.wikipedia.org/wiki/Tyrosin",
+   "sourceTitle": "Wikipedia – Tyrosin"
+  },
+  {
+   "front": "Asparagin",
+   "parent": "Aminosäure",
+   "back": "Aminosäure: polar, mit einer Amidgruppe. Abkürzungen Asn und N; nicht essenziell: der Körper stellt sie selbst her.\n\n[molecola: L-Asparagin, C4H8N2O3, SMILES C([C@@H](C(=O)O)N)C(=O)N]",
+   "source": "https://de.wikipedia.org/wiki/Asparagin",
+   "sourceTitle": "Wikipedia – Asparagin"
+  },
+  {
+   "front": "Glutamin",
+   "parent": "Aminosäure",
+   "back": "Aminosäure: polar, mit einer Amidgruppe. Abkürzungen Gln und Q; nicht essenziell: der Körper stellt sie selbst her.\n\n[molecola: L-Glutamin, C5H10N2O3, SMILES C(CC(=O)N)[C@@H](C(=O)O)N]",
+   "source": "https://de.wikipedia.org/wiki/Glutamin",
+   "sourceTitle": "Wikipedia – Glutamin"
+  },
+  {
+   "front": "Asparaginsäure",
+   "parent": "Aminosäure",
+   "back": "Aminosäure: sauer, mit einer zweiten Carboxygruppe (als Ion heißt sie Aspartat). Abkürzungen Asp und D; nicht essenziell: der Körper stellt sie selbst her.\n\n[molecola: L-Asparaginsäure, C4H7NO4, SMILES C([C@@H](C(=O)O)N)C(=O)O]",
+   "source": "https://de.wikipedia.org/wiki/Asparaginsäure",
+   "sourceTitle": "Wikipedia – Asparaginsäure"
+  },
+  {
+   "front": "Glutaminsäure",
+   "parent": "Aminosäure",
+   "back": "Aminosäure: sauer (als Ion heißt sie Glutamat); sie ist auch ein Neurotransmitter. Abkürzungen Glu und E; nicht essenziell: der Körper stellt sie selbst her.\n\n[molecola: L-Glutaminsäure, C5H9NO4, SMILES C(CC(=O)O)[C@@H](C(=O)O)N]",
+   "source": "https://de.wikipedia.org/wiki/Glutaminsäure",
+   "sourceTitle": "Wikipedia – Glutaminsäure"
+  },
+  {
+   "front": "Lysin",
+   "parent": "Aminosäure",
+   "back": "Aminosäure: basisch, mit einer Aminogruppe am Ende der Seitenkette. Abkürzungen Lys und K; essenziell: muss mit der Nahrung aufgenommen werden.\n\n[molecola: L-Lysin, C6H14N2O2, SMILES C(CCN)C[C@@H](C(=O)O)N]",
+   "source": "https://de.wikipedia.org/wiki/Lysin",
+   "sourceTitle": "Wikipedia – Lysin"
+  },
+  {
+   "front": "Arginin",
+   "parent": "Aminosäure",
+   "back": "Aminosäure: basisch, mit einer Guanidinogruppe. Abkürzungen Arg und R; nicht essenziell: der Körper stellt sie selbst her.\n\n[molecola: L-Arginin, C6H14N4O2, SMILES C(C[C@@H](C(=O)O)N)CN=C(N)N]",
+   "source": "https://de.wikipedia.org/wiki/Arginin",
+   "sourceTitle": "Wikipedia – Arginin"
+  },
+  {
+   "front": "Histidin",
+   "parent": "Aminosäure",
+   "back": "Aminosäure: basisch, mit einem Imidazolring; oft im aktiven Zentrum von Enzymen. Abkürzungen His und H; essenziell: muss mit der Nahrung aufgenommen werden.\n\n[molecola: L-Histidin, C6H9N3O2, SMILES C1=C(NC=N1)C[C@@H](C(=O)O)N]",
+   "source": "https://de.wikipedia.org/wiki/Histidin",
+   "sourceTitle": "Wikipedia – Histidin"
+  }
+ ],
+ "language": "de",
+ "count": 21
+}

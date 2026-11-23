@@ -1,0 +1,131 @@
+{
+ "id": "scienziati-en",
+ "category": "NAME",
+ "title": "Great scientists",
+ "description": "Who they were and what some of the great names of science discovered.",
+ "lang": "",
+ "version": 1,
+ "cards": [
+  {
+   "front": "Galileo Galilei",
+   "date": "1564/1642",
+   "back": "Italian physicist, astronomer and philosopher, father of the modern scientific method. With the telescope he discovered Jupiter's moons and the phases of Venus, supporting the Copernican system; for this he was tried by the Inquisition in 1633.",
+   "source": "https://en.wikipedia.org/wiki/Galileo_Galilei",
+   "sourceTitle": "Wikipedia – Galileo Galilei",
+   "people": [
+    {
+     "role": "Works",
+     "names": [
+      "Sidereus Nuncius",
+      "Dialogue Concerning the Two Chief World Systems"
+     ]
+    }
+   ]
+  },
+  {
+   "front": "Isaac Newton",
+   "date": "1643/1727",
+   "back": "English mathematician and physicist. He formulated the three laws of motion and the law of universal gravitation, and developed calculus alongside Leibniz.",
+   "source": "https://en.wikipedia.org/wiki/Isaac_Newton",
+   "sourceTitle": "Wikipedia – Isaac Newton",
+   "people": [
+    {
+     "role": "Works",
+     "names": [
+      "Philosophiæ Naturalis Principia Mathematica",
+      "Opticks"
+     ]
+    }
+   ]
+  },
+  {
+   "front": "Charles Darwin",
+   "date": "1809/1882",
+   "back": "British naturalist, author of the theory of evolution by natural selection, developed during his voyage around the world on HMS Beagle.",
+   "source": "https://en.wikipedia.org/wiki/Charles_Darwin",
+   "sourceTitle": "Wikipedia – Charles Darwin",
+   "people": [
+    {
+     "role": "Works",
+     "names": [
+      "On the Origin of Species",
+      "The Descent of Man"
+     ]
+    }
+   ]
+  },
+  {
+   "front": "Marie Curie",
+   "date": "1867/1934",
+   "back": "Polish-born French physicist and chemist, a pioneer of radioactivity. She discovered polonium and radium and was the first person to win two Nobel Prizes, in physics (1903) and chemistry (1911).",
+   "source": "https://en.wikipedia.org/wiki/Marie_Curie",
+   "sourceTitle": "Wikipedia – Marie Curie"
+  },
+  {
+   "front": "Albert Einstein",
+   "date": "1879/1955",
+   "back": "German-born physicist, later Swiss and American. He formulated special and general relativity and explained the photoelectric effect, for which he received the 1921 Nobel Prize in Physics.",
+   "source": "https://en.wikipedia.org/wiki/Albert_Einstein",
+   "sourceTitle": "Wikipedia – Albert Einstein"
+  },
+  {
+   "front": "Gregor Mendel",
+   "date": "1822/1884",
+   "back": "Bohemian biologist and Augustinian friar. By crossing pea plants he discovered the laws of inheritance, the basis of genetics.",
+   "source": "https://en.wikipedia.org/wiki/Gregor_Mendel",
+   "sourceTitle": "Wikipedia – Gregor Mendel"
+  },
+  {
+   "front": "Louis Pasteur",
+   "date": "1822/1895",
+   "back": "French chemist and microbiologist. He showed that fermentation and many diseases are caused by microorganisms, and devised pasteurization and the rabies vaccine.",
+   "source": "https://en.wikipedia.org/wiki/Louis_Pasteur",
+   "sourceTitle": "Wikipedia – Louis Pasteur"
+  },
+  {
+   "front": "Rosalind Franklin",
+   "date": "1920/1958",
+   "back": "British chemist. Her X-ray diffraction images, such as «Photo 51», were decisive in discovering the double-helix structure of DNA.",
+   "source": "https://en.wikipedia.org/wiki/Rosalind_Franklin",
+   "sourceTitle": "Wikipedia – Rosalind Franklin"
+  },
+  {
+   "front": "Dmitri Mendeleev",
+   "date": "1834/1907",
+   "back": "Russian chemist. In 1869 he arranged the elements in the periodic table, leaving gaps for elements not yet discovered whose properties he predicted.",
+   "source": "https://en.wikipedia.org/wiki/Dmitri_Mendeleev",
+   "sourceTitle": "Wikipedia – Dmitri Mendeleev"
+  },
+  {
+   "front": "Enrico Fermi",
+   "date": "1901/1954",
+   "back": "Italian physicist, Nobel laureate in 1938. He studied slow neutrons and led the construction in Chicago of the first atomic pile, which in 1942 started the first controlled nuclear chain reaction.",
+   "source": "https://en.wikipedia.org/wiki/Enrico_Fermi",
+   "sourceTitle": "Wikipedia – Enrico Fermi"
+  },
+  {
+   "front": "Rita Levi-Montalcini",
+   "date": "1909/2012",
+   "back": "Italian neurologist. She discovered nerve growth factor (NGF), for which she received the 1986 Nobel Prize in Medicine; she was a senator for life.",
+   "source": "https://en.wikipedia.org/wiki/Rita_Levi-Montalcini",
+   "sourceTitle": "Wikipedia – Rita Levi-Montalcini"
+  },
+  {
+   "front": "Nicolaus Copernicus",
+   "date": "1473/1543",
+   "back": "Polish astronomer. He proposed the heliocentric model, with the Sun at the centre and the Earth orbiting around it.",
+   "source": "https://en.wikipedia.org/wiki/Nicolaus_Copernicus",
+   "sourceTitle": "Wikipedia – Nicolaus Copernicus",
+   "people": [
+    {
+     "role": "Works",
+     "names": [
+      "De revolutionibus orbium coelestium"
+     ]
+    }
+   ]
+  }
+ ],
+ "language": "en",
+ "count": 12
+}

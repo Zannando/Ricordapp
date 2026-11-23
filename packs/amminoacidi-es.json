@@ -1,0 +1,158 @@
+{
+ "id": "amminoacidi-es",
+ "category": "CHEMISTRY",
+ "title": "Aminoácidos",
+ "description": "Los 20 aminoácidos estándar: abreviaturas, características y la molécula para construir.",
+ "lang": "",
+ "version": 1,
+ "cards": [
+  {
+   "front": "Aminoácido",
+   "back": "Molécula con un grupo amino (–NH₂) y un grupo carboxilo (–COOH) unidos al mismo carbono, llamado alfa, junto con una cadena lateral R que lo distingue de los demás. Unidos en cadena por enlaces peptídicos forman las proteínas; los estándar son 20.",
+   "source": "https://es.wikipedia.org/wiki/Aminoácido",
+   "sourceTitle": "Wikipedia – Aminoácido"
+  },
+  {
+   "front": "Glicina",
+   "parent": "Aminoácido",
+   "back": "Aminoácido apolar, el más simple: su cadena lateral es un solo átomo de hidrógeno, por lo que no es quiral. Abreviaturas Gly y G; no esencial: el cuerpo lo produce.\n\n[molecola: glicina, C2H5NO2, SMILES NCC(=O)O]",
+   "source": "https://es.wikipedia.org/wiki/Glicina",
+   "sourceTitle": "Wikipedia – Glicina"
+  },
+  {
+   "front": "Alanina",
+   "parent": "Aminoácido",
+   "back": "Aminoácido apolar, con un grupo metilo como cadena lateral. Abreviaturas Ala y A; no esencial: el cuerpo lo produce.\n\n[molecola: L-alanina, C3H7NO2, SMILES C[C@@H](C(=O)O)N]",
+   "source": "https://es.wikipedia.org/wiki/Alanina",
+   "sourceTitle": "Wikipedia – Alanina"
+  },
+  {
+   "front": "Valina",
+   "parent": "Aminoácido",
+   "back": "Aminoácido apolar, con cadena lateral ramificada. Abreviaturas Val y V; esencial: hay que tomarlo con la dieta.\n\n[molecola: L-valina, C5H11NO2, SMILES CC(C)[C@@H](C(=O)O)N]",
+   "source": "https://es.wikipedia.org/wiki/Valina",
+   "sourceTitle": "Wikipedia – Valina"
+  },
+  {
+   "front": "Leucina",
+   "parent": "Aminoácido",
+   "back": "Aminoácido apolar, con cadena lateral ramificada. Abreviaturas Leu y L; esencial: hay que tomarlo con la dieta.\n\n[molecola: L-leucina, C6H13NO2, SMILES CC(C)C[C@@H](C(=O)O)N]",
+   "source": "https://es.wikipedia.org/wiki/Leucina",
+   "sourceTitle": "Wikipedia – Leucina"
+  },
+  {
+   "front": "Isoleucina",
+   "parent": "Aminoácido",
+   "back": "Aminoácido apolar, isómero de la leucina, con dos centros quirales. Abreviaturas Ile y I; esencial: hay que tomarlo con la dieta.\n\n[molecola: L-isoleucina, C6H13NO2, SMILES CC[C@H](C)[C@@H](C(=O)O)N]",
+   "source": "https://es.wikipedia.org/wiki/Isoleucina",
+   "sourceTitle": "Wikipedia – Isoleucina"
+  },
+  {
+   "front": "Prolina",
+   "parent": "Aminoácido",
+   "back": "Aminoácido apolar; su cadena lateral se cierra en anillo sobre el nitrógeno, por eso dobla las cadenas proteicas. Abreviaturas Pro y P; no esencial: el cuerpo lo produce.\n\n[molecola: L-prolina, C5H9NO2, SMILES C1C[C@H](NC1)C(=O)O]",
+   "source": "https://es.wikipedia.org/wiki/Prolina",
+   "sourceTitle": "Wikipedia – Prolina"
+  },
+  {
+   "front": "Fenilalanina",
+   "parent": "Aminoácido",
+   "back": "Aminoácido apolar y aromático, con un anillo bencénico. Abreviaturas Phe y F; esencial: hay que tomarlo con la dieta.\n\n[molecola: L-fenilalanina, C9H11NO2, SMILES C1=CC=C(C=C1)C[C@@H](C(=O)O)N]",
+   "source": "https://es.wikipedia.org/wiki/Fenilalanina",
+   "sourceTitle": "Wikipedia – Fenilalanina"
+  },
+  {
+   "front": "Triptófano",
+   "parent": "Aminoácido",
+   "back": "Aminoácido aromático, con un anillo indólico; es el precursor de la serotonina. Abreviaturas Trp y W; esencial: hay que tomarlo con la dieta.\n\n[molecola: L-triptófano, C11H12N2O2, SMILES C1=CC=C2C(=C1)C(=CN2)C[C@@H](C(=O)O)N]",
+   "source": "https://es.wikipedia.org/wiki/Triptófano",
+   "sourceTitle": "Wikipedia – Triptófano"
+  },
+  {
+   "front": "Metionina",
+   "parent": "Aminoácido",
+   "back": "Aminoácido apolar y azufrado; su codón AUG inicia la síntesis de proteínas. Abreviaturas Met y M; esencial: hay que tomarlo con la dieta.\n\n[molecola: L-metionina, C5H11NO2S, SMILES CSCC[C@@H](C(=O)O)N]",
+   "source": "https://es.wikipedia.org/wiki/Metionina",
+   "sourceTitle": "Wikipedia – Metionina"
+  },
+  {
+   "front": "Serina",
+   "parent": "Aminoácido",
+   "back": "Aminoácido polar, con un grupo hidroxilo. Abreviaturas Ser y S; no esencial: el cuerpo lo produce.\n\n[molecola: L-serina, C3H7NO3, SMILES C([C@@H](C(=O)O)N)O]",
+   "source": "https://es.wikipedia.org/wiki/Serina",
+   "sourceTitle": "Wikipedia – Serina"
+  },
+  {
+   "front": "Treonina",
+   "parent": "Aminoácido",
+   "back": "Aminoácido polar, con un grupo hidroxilo y dos centros quirales. Abreviaturas Thr y T; esencial: hay que tomarlo con la dieta.\n\n[molecola: L-treonina, C4H9NO3, SMILES C[C@H]([C@@H](C(=O)O)N)O]",
+   "source": "https://es.wikipedia.org/wiki/Treonina",
+   "sourceTitle": "Wikipedia – Treonina"
+  },
+  {
+   "front": "Cisteína",
+   "parent": "Aminoácido",
+   "back": "Aminoácido polar, con un grupo tiol que forma puentes disulfuro en las proteínas. Abreviaturas Cys y C; no esencial: el cuerpo lo produce.\n\n[molecola: L-cisteína, C3H7NO2S, SMILES C([C@@H](C(=O)O)N)S]",
+   "source": "https://es.wikipedia.org/wiki/Cisteína",
+   "sourceTitle": "Wikipedia – Cisteína"
+  },
+  {
+   "front": "Tirosina",
+   "parent": "Aminoácido",
+   "back": "Aminoácido polar y aromático, con un anillo fenólico; es el precursor de la dopamina y la adrenalina. Abreviaturas Tyr y Y; no esencial: el cuerpo lo produce.\n\n[molecola: L-tirosina, C9H11NO3, SMILES C1=CC(=CC=C1C[C@@H](C(=O)O)N)O]",
+   "source": "https://es.wikipedia.org/wiki/Tirosina",
+   "sourceTitle": "Wikipedia – Tirosina"
+  },
+  {
+   "front": "Asparagina",
+   "parent": "Aminoácido",
+   "back": "Aminoácido polar, con un grupo amida. Abreviaturas Asn y N; no esencial: el cuerpo lo produce.\n\n[molecola: L-asparagina, C4H8N2O3, SMILES C([C@@H](C(=O)O)N)C(=O)N]",
+   "source": "https://es.wikipedia.org/wiki/Asparagina",
+   "sourceTitle": "Wikipedia – Asparagina"
+  },
+  {
+   "front": "Glutamina",
+   "parent": "Aminoácido",
+   "back": "Aminoácido polar, con un grupo amida. Abreviaturas Gln y Q; no esencial: el cuerpo lo produce.\n\n[molecola: L-glutamina, C5H10N2O3, SMILES C(CC(=O)N)[C@@H](C(=O)O)N]",
+   "source": "https://es.wikipedia.org/wiki/Glutamina",
+   "sourceTitle": "Wikipedia – Glutamina"
+  },
+  {
+   "front": "Ácido aspártico",
+   "parent": "Aminoácido",
+   "back": "Aminoácido ácido, con un segundo grupo carboxilo (como ion se llama aspartato). Abreviaturas Asp y D; no esencial: el cuerpo lo produce.\n\n[molecola: ácido L-aspártico, C4H7NO4, SMILES C([C@@H](C(=O)O)N)C(=O)O]",
+   "source": "https://es.wikipedia.org/wiki/Ácido_aspártico",
+   "sourceTitle": "Wikipedia – Ácido aspártico"
+  },
+  {
+   "front": "Ácido glutámico",
+   "parent": "Aminoácido",
+   "back": "Aminoácido ácido (como ion se llama glutamato); también es un neurotransmisor. Abreviaturas Glu y E; no esencial: el cuerpo lo produce.\n\n[molecola: ácido L-glutámico, C5H9NO4, SMILES C(CC(=O)O)[C@@H](C(=O)O)N]",
+   "source": "https://es.wikipedia.org/wiki/Ácido_glutámico",
+   "sourceTitle": "Wikipedia – Ácido glutámico"
+  },
+  {
+   "front": "Lisina",
+   "parent": "Aminoácido",
+   "back": "Aminoácido básico, con un grupo amino al final de la cadena lateral. Abreviaturas Lys y K; esencial: hay que tomarlo con la dieta.\n\n[molecola: L-lisina, C6H14N2O2, SMILES C(CCN)C[C@@H](C(=O)O)N]",
+   "source": "https://es.wikipedia.org/wiki/Lisina",
+   "sourceTitle": "Wikipedia – Lisina"
+  },
+  {
+   "front": "Arginina",
+   "parent": "Aminoácido",
+   "back": "Aminoácido básico, con un grupo guanidino. Abreviaturas Arg y R; no esencial: el cuerpo lo produce.\n\n[molecola: L-arginina, C6H14N4O2, SMILES C(C[C@@H](C(=O)O)N)CN=C(N)N]",
+   "source": "https://es.wikipedia.org/wiki/Arginina",
+   "sourceTitle": "Wikipedia – Arginina"
+  },
+  {
+   "front": "Histidina",
+   "parent": "Aminoácido",
+   "back": "Aminoácido básico, con un anillo imidazol; a menudo en el sitio activo de las enzimas. Abreviaturas His y H; esencial: hay que tomarlo con la dieta.\n\n[molecola: L-histidina, C6H9N3O2, SMILES C1=C(NC=N1)C[C@@H](C(=O)O)N]",
+   "source": "https://es.wikipedia.org/wiki/Histidina",
+   "sourceTitle": "Wikipedia – Histidina"
+  }
+ ],
+ "language": "es",
+ "count": 21
+}

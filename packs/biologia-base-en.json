@@ -1,0 +1,69 @@
+{
+ "id": "biologia-base-en",
+ "category": "CONCEPT",
+ "title": "Basic biology",
+ "description": "The fundamental concepts of biology, linked to each other.",
+ "lang": "",
+ "version": 1,
+ "cards": [
+  {
+   "front": "Cell",
+   "back": "The smallest unit of a living being. It has a membrane, cytoplasm and genetic material ([[DNA]]); it can be prokaryotic, without a nucleus, or eukaryotic, with a nucleus."
+  },
+  {
+   "front": "DNA",
+   "back": "Deoxyribonucleic acid: the molecule that stores genetic information. It is a double helix of nucleotides (A, T, C, G); the stretches that code for proteins are called genes (see [[Gene]]).",
+   "parent": "Cell"
+  },
+  {
+   "front": "Gene",
+   "back": "A stretch of [[DNA]] containing the information to make a protein or a functional RNA. It is the unit of heredity.",
+   "parent": "DNA"
+  },
+  {
+   "front": "Mitosis",
+   "back": "Division of a [[Cell]] into two daughter cells identical to the mother cell, with the same number of chromosomes. It serves growth and tissue repair."
+  },
+  {
+   "front": "Meiosis",
+   "back": "Cell division that produces gametes, with half the chromosomes of the mother cell. It reshuffles the genes ([[Gene]]) and creates variability.",
+   "parent": "Mitosis"
+  },
+  {
+   "front": "Photosynthesis",
+   "back": "The process by which plants, algae and some bacteria use light to make glucose from carbon dioxide and water, releasing oxygen. It takes place in an organelle, the [[Chloroplast]]."
+  },
+  {
+   "front": "Chloroplast",
+   "back": "Organelle of plant cells that contains chlorophyll and carries out [[Photosynthesis]].",
+   "parent": "Cell"
+  },
+  {
+   "front": "Mitochondrion",
+   "back": "Organelle that produces most of the cell's energy (ATP) through [[Cellular respiration]]. It has its own DNA.",
+   "parent": "Cell"
+  },
+  {
+   "front": "Cellular respiration",
+   "back": "Process that, in the [[Mitochondrion]], breaks down glucose with oxygen to produce ATP, releasing carbon dioxide and water."
+  },
+  {
+   "front": "Enzyme",
+   "back": "A protein that speeds up a chemical reaction in the body without being consumed. It acts on a specific substrate."
+  },
+  {
+   "front": "Natural selection",
+   "back": "Mechanism of [[Evolution]] described by Darwin: individuals with traits better suited to the environment survive and reproduce more, passing those traits on."
+  },
+  {
+   "front": "Evolution",
+   "back": "Change in the inherited traits of populations over generations, driven above all by [[Natural selection]]."
+  },
+  {
+   "front": "Homeostasis",
+   "back": "An organism's ability to keep internal conditions (temperature, blood sugar, pH) stable as external ones change."
+  }
+ ],
+ "language": "en",
+ "count": 13
+}

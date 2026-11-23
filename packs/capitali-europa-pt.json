@@ -1,0 +1,492 @@
+{
+ "id": "capitali-europa-pt",
+ "category": "PLACE",
+ "title": "Capitais da Europa",
+ "description": "As capitais dos estados europeus: onde ficam, o que as caracteriza e a sua posição no mapa.",
+ "lang": "",
+ "version": 1,
+ "cards": [
+  {
+   "front": "Roma",
+   "back": "Capital da Itália. Ergue-se sobre o Tibre e alberga no seu interior a Cidade do Vaticano. Segundo a tradição, foi fundada em 753 a.C.\n\n[mappa: Roma]",
+   "lat": 41.9028,
+   "lon": 12.4964,
+   "people": [
+    {
+     "role": "País",
+     "names": [
+      "Itália"
+     ]
+    }
+   ],
+   "source": "https://pt.wikipedia.org/wiki/Roma",
+   "sourceTitle": "Wikipedia – Roma"
+  },
+  {
+   "front": "Paris",
+   "back": "Capital da França. Atravessada pelo Sena, é a cidade da Torre Eiffel e do Louvre.\n\n[mappa: Paris]",
+   "lat": 48.8566,
+   "lon": 2.3522,
+   "people": [
+    {
+     "role": "País",
+     "names": [
+      "França"
+     ]
+    }
+   ],
+   "source": "https://pt.wikipedia.org/wiki/Paris",
+   "sourceTitle": "Wikipedia – Paris"
+  },
+  {
+   "front": "Berlim",
+   "back": "Capital da Alemanha. Nas margens do Spree. De 1961 a 1989 esteve dividida pelo Muro; desde 1990 é a capital da Alemanha reunificada.\n\n[mappa: Berlim]",
+   "lat": 52.52,
+   "lon": 13.405,
+   "people": [
+    {
+     "role": "País",
+     "names": [
+      "Alemanha"
+     ]
+    }
+   ],
+   "source": "https://pt.wikipedia.org/wiki/Berlim",
+   "sourceTitle": "Wikipedia – Berlim"
+  },
+  {
+   "front": "Madrid",
+   "back": "Capital de Espanha. No centro da Península Ibérica, junto ao rio Manzanares; alberga o Museu do Prado.\n\n[mappa: Madrid]",
+   "lat": 40.4168,
+   "lon": -3.7038,
+   "people": [
+    {
+     "role": "País",
+     "names": [
+      "Espanha"
+     ]
+    }
+   ],
+   "source": "https://pt.wikipedia.org/wiki/Madrid",
+   "sourceTitle": "Wikipedia – Madrid"
+  },
+  {
+   "front": "Lisboa",
+   "back": "Capital de Portugal. No estuário do Tejo, virada para o Atlântico; foi em grande parte destruída pelo terramoto de 1755.\n\n[mappa: Lisboa]",
+   "lat": 38.7223,
+   "lon": -9.1393,
+   "people": [
+    {
+     "role": "País",
+     "names": [
+      "Portugal"
+     ]
+    }
+   ],
+   "source": "https://pt.wikipedia.org/wiki/Lisboa",
+   "sourceTitle": "Wikipedia – Lisboa"
+  },
+  {
+   "front": "Viena",
+   "back": "Capital da Áustria. Nas margens do Danúbio; foi a capital do império dos Habsburgos e está ligada à grande música clássica.\n\n[mappa: Viena]",
+   "lat": 48.2082,
+   "lon": 16.3738,
+   "people": [
+    {
+     "role": "País",
+     "names": [
+      "Áustria"
+     ]
+    }
+   ],
+   "source": "https://pt.wikipedia.org/wiki/Viena",
+   "sourceTitle": "Wikipedia – Viena"
+  },
+  {
+   "front": "Berna",
+   "back": "Capital da Suíça. Junto ao rio Aar; é a «cidade federal» suíça e o seu centro histórico é património da UNESCO.\n\n[mappa: Berna]",
+   "lat": 46.948,
+   "lon": 7.4474,
+   "people": [
+    {
+     "role": "País",
+     "names": [
+      "Suíça"
+     ]
+    }
+   ],
+   "source": "https://pt.wikipedia.org/wiki/Berna",
+   "sourceTitle": "Wikipedia – Berna"
+  },
+  {
+   "front": "Bruxelas",
+   "back": "Capital da Bélgica. Acolhe muitas instituições da União Europeia, como a Comissão e o Conselho, e a sede da NATO.\n\n[mappa: Bruxelas]",
+   "lat": 50.8503,
+   "lon": 4.3517,
+   "people": [
+    {
+     "role": "País",
+     "names": [
+      "Bélgica"
+     ]
+    }
+   ],
+   "source": "https://pt.wikipedia.org/wiki/Bruxelas",
+   "sourceTitle": "Wikipedia – Bruxelas"
+  },
+  {
+   "front": "Amesterdão",
+   "back": "Capital dos Países Baixos. É a capital constitucional, famosa pelos canais; o governo e o parlamento, porém, têm sede em Haia.\n\n[mappa: Amesterdão]",
+   "lat": 52.3676,
+   "lon": 4.9041,
+   "people": [
+    {
+     "role": "País",
+     "names": [
+      "Países Baixos"
+     ]
+    }
+   ],
+   "source": "https://pt.wikipedia.org/wiki/Amesterdão",
+   "sourceTitle": "Wikipedia – Amesterdão"
+  },
+  {
+   "front": "Varsóvia",
+   "back": "Capital da Polónia. Nas margens do Vístula; o centro histórico, destruído na Segunda Guerra Mundial, foi reconstruído e é património da UNESCO.\n\n[mappa: Varsóvia]",
+   "lat": 52.2297,
+   "lon": 21.0122,
+   "people": [
+    {
+     "role": "País",
+     "names": [
+      "Polónia"
+     ]
+    }
+   ],
+   "source": "https://pt.wikipedia.org/wiki/Varsóvia",
+   "sourceTitle": "Wikipedia – Varsóvia"
+  },
+  {
+   "front": "Praga",
+   "back": "Capital da Chéquia. Nas margens do Moldava, com a Ponte Carlos e o grande complexo do Castelo.\n\n[mappa: Praga]",
+   "lat": 50.0755,
+   "lon": 14.4378,
+   "people": [
+    {
+     "role": "País",
+     "names": [
+      "Chéquia"
+     ]
+    }
+   ],
+   "source": "https://pt.wikipedia.org/wiki/Praga",
+   "sourceTitle": "Wikipedia – Praga"
+  },
+  {
+   "front": "Budapeste",
+   "back": "Capital da Hungria. Nas margens do Danúbio; nasceu em 1873 da união de Buda, Óbuda e Peste.\n\n[mappa: Budapeste]",
+   "lat": 47.4979,
+   "lon": 19.0402,
+   "people": [
+    {
+     "role": "País",
+     "names": [
+      "Hungria"
+     ]
+    }
+   ],
+   "source": "https://pt.wikipedia.org/wiki/Budapeste",
+   "sourceTitle": "Wikipedia – Budapeste"
+  },
+  {
+   "front": "Atenas",
+   "back": "Capital da Grécia. Dominada pela Acrópole com o Pártenon, é considerada o berço da democracia.\n\n[mappa: Atenas]",
+   "lat": 37.9838,
+   "lon": 23.7275,
+   "people": [
+    {
+     "role": "País",
+     "names": [
+      "Grécia"
+     ]
+    }
+   ],
+   "source": "https://pt.wikipedia.org/wiki/Atenas",
+   "sourceTitle": "Wikipedia – Atenas"
+  },
+  {
+   "front": "Estocolmo",
+   "back": "Capital da Suécia. Construída sobre ilhas entre o lago Mälaren e o mar Báltico; aqui são entregues os prémios Nobel, exceto o da paz.\n\n[mappa: Estocolmo]",
+   "lat": 59.3293,
+   "lon": 18.0686,
+   "people": [
+    {
+     "role": "País",
+     "names": [
+      "Suécia"
+     ]
+    }
+   ],
+   "source": "https://pt.wikipedia.org/wiki/Estocolmo",
+   "sourceTitle": "Wikipedia – Estocolmo"
+  },
+  {
+   "front": "Oslo",
+   "back": "Capital da Noruega. No fundo do fiorde de Oslo; aqui é entregue o prémio Nobel da paz.\n\n[mappa: Oslo]",
+   "lat": 59.9139,
+   "lon": 10.7522,
+   "people": [
+    {
+     "role": "País",
+     "names": [
+      "Noruega"
+     ]
+    }
+   ],
+   "source": "https://pt.wikipedia.org/wiki/Oslo",
+   "sourceTitle": "Wikipedia – Oslo"
+  },
+  {
+   "front": "Copenhaga",
+   "back": "Capital da Dinamarca. No Øresund, em frente à Suécia, à qual está ligada por uma ponte; famosa pela estátua da Pequena Sereia.\n\n[mappa: Copenhaga]",
+   "lat": 55.6761,
+   "lon": 12.5683,
+   "people": [
+    {
+     "role": "País",
+     "names": [
+      "Dinamarca"
+     ]
+    }
+   ],
+   "source": "https://pt.wikipedia.org/wiki/Copenhaga",
+   "sourceTitle": "Wikipedia – Copenhaga"
+  },
+  {
+   "front": "Helsínquia",
+   "back": "Capital da Finlândia. Virada para o golfo da Finlândia, no mar Báltico.\n\n[mappa: Helsínquia]",
+   "lat": 60.1699,
+   "lon": 24.9384,
+   "people": [
+    {
+     "role": "País",
+     "names": [
+      "Finlândia"
+     ]
+    }
+   ],
+   "source": "https://pt.wikipedia.org/wiki/Helsínquia",
+   "sourceTitle": "Wikipedia – Helsínquia"
+  },
+  {
+   "front": "Dublin",
+   "back": "Capital da Irlanda. Na foz do Liffey, na baía de Dublin.\n\n[mappa: Dublin]",
+   "lat": 53.3498,
+   "lon": -6.2603,
+   "people": [
+    {
+     "role": "País",
+     "names": [
+      "Irlanda"
+     ]
+    }
+   ],
+   "source": "https://pt.wikipedia.org/wiki/Dublin",
+   "sourceTitle": "Wikipedia – Dublin"
+  },
+  {
+   "front": "Londres",
+   "back": "Capital do Reino Unido. Nas margens do Tamisa; em Westminster têm sede o parlamento e o governo britânicos.\n\n[mappa: Londres]",
+   "lat": 51.5074,
+   "lon": -0.1278,
+   "people": [
+    {
+     "role": "País",
+     "names": [
+      "Reino Unido"
+     ]
+    }
+   ],
+   "source": "https://pt.wikipedia.org/wiki/Londres",
+   "sourceTitle": "Wikipedia – Londres"
+  },
+  {
+   "front": "Liubliana",
+   "back": "Capital da Eslovénia. Atravessada pelo rio Ljubljanica, com o castelo na colina ao centro.\n\n[mappa: Liubliana]",
+   "lat": 46.0569,
+   "lon": 14.5058,
+   "people": [
+    {
+     "role": "País",
+     "names": [
+      "Eslovénia"
+     ]
+    }
+   ],
+   "source": "https://pt.wikipedia.org/wiki/Liubliana",
+   "sourceTitle": "Wikipedia – Liubliana"
+  },
+  {
+   "front": "Zagreb",
+   "back": "Capital da Croácia. Junto ao rio Sava, no sopé do monte Medvednica.\n\n[mappa: Zagreb]",
+   "lat": 45.815,
+   "lon": 15.9819,
+   "people": [
+    {
+     "role": "País",
+     "names": [
+      "Croácia"
+     ]
+    }
+   ],
+   "source": "https://pt.wikipedia.org/wiki/Zagreb",
+   "sourceTitle": "Wikipedia – Zagreb"
+  },
+  {
+   "front": "Bucareste",
+   "back": "Capital da Roménia. Junto ao rio Dâmbovița; o Palácio do Parlamento é um dos maiores edifícios do mundo.\n\n[mappa: Bucareste]",
+   "lat": 44.4268,
+   "lon": 26.1025,
+   "people": [
+    {
+     "role": "País",
+     "names": [
+      "Roménia"
+     ]
+    }
+   ],
+   "source": "https://pt.wikipedia.org/wiki/Bucareste",
+   "sourceTitle": "Wikipedia – Bucareste"
+  },
+  {
+   "front": "Sófia",
+   "back": "Capital da Bulgária. No sopé do monte Vitosha, no oeste do país.\n\n[mappa: Sófia]",
+   "lat": 42.6977,
+   "lon": 23.3219,
+   "people": [
+    {
+     "role": "País",
+     "names": [
+      "Bulgária"
+     ]
+    }
+   ],
+   "source": "https://pt.wikipedia.org/wiki/Sófia",
+   "sourceTitle": "Wikipedia – Sófia"
+  },
+  {
+   "front": "Taline",
+   "back": "Capital da Estónia. No golfo da Finlândia; o centro histórico medieval é património da UNESCO.\n\n[mappa: Taline]",
+   "lat": 59.437,
+   "lon": 24.7536,
+   "people": [
+    {
+     "role": "País",
+     "names": [
+      "Estónia"
+     ]
+    }
+   ],
+   "source": "https://pt.wikipedia.org/wiki/Taline",
+   "sourceTitle": "Wikipedia – Taline"
+  },
+  {
+   "front": "Riga",
+   "back": "Capital da Letónia. Nas margens do Daugava, perto do golfo de Riga; famosa pelos edifícios Arte Nova.\n\n[mappa: Riga]",
+   "lat": 56.9496,
+   "lon": 24.1052,
+   "people": [
+    {
+     "role": "País",
+     "names": [
+      "Letónia"
+     ]
+    }
+   ],
+   "source": "https://pt.wikipedia.org/wiki/Riga",
+   "sourceTitle": "Wikipedia – Riga"
+  },
+  {
+   "front": "Vílnius",
+   "back": "Capital da Lituânia. Na confluência dos rios Neris e Vilnia; o centro histórico barroco é património da UNESCO.\n\n[mappa: Vílnius]",
+   "lat": 54.6872,
+   "lon": 25.2797,
+   "people": [
+    {
+     "role": "País",
+     "names": [
+      "Lituânia"
+     ]
+    }
+   ],
+   "source": "https://pt.wikipedia.org/wiki/Vílnius",
+   "sourceTitle": "Wikipedia – Vílnius"
+  },
+  {
+   "front": "Bratislava",
+   "back": "Capital da Eslováquia. Nas margens do Danúbio, na fronteira com a Áustria e a Hungria.\n\n[mappa: Bratislava]",
+   "lat": 48.1486,
+   "lon": 17.1077,
+   "people": [
+    {
+     "role": "País",
+     "names": [
+      "Eslováquia"
+     ]
+    }
+   ],
+   "source": "https://pt.wikipedia.org/wiki/Bratislava",
+   "sourceTitle": "Wikipedia – Bratislava"
+  },
+  {
+   "front": "Reiquiavique",
+   "back": "Capital da Islândia. É a capital de estado soberano mais a norte do mundo.\n\n[mappa: Reiquiavique]",
+   "lat": 64.1466,
+   "lon": -21.9426,
+   "people": [
+    {
+     "role": "País",
+     "names": [
+      "Islândia"
+     ]
+    }
+   ],
+   "source": "https://pt.wikipedia.org/wiki/Reiquiavique",
+   "sourceTitle": "Wikipedia – Reiquiavique"
+  },
+  {
+   "front": "Valeta",
+   "back": "Capital de Malta. Fundada pelos Cavaleiros de São João em 1566, é uma das capitais mais pequenas da União Europeia.\n\n[mappa: Valeta]",
+   "lat": 35.8989,
+   "lon": 14.5146,
+   "people": [
+    {
+     "role": "País",
+     "names": [
+      "Malta"
+     ]
+    }
+   ],
+   "source": "https://pt.wikipedia.org/wiki/Valeta",
+   "sourceTitle": "Wikipedia – Valeta"
+  },
+  {
+   "front": "Luxemburgo",
+   "back": "Capital do Luxemburgo. É sede do Tribunal de Justiça da União Europeia; o centro histórico, com as antigas fortificações, é património da UNESCO.\n\n[mappa: Q1842]",
+   "lat": 49.6116,
+   "lon": 6.1319,
+   "people": [
+    {
+     "role": "País",
+     "names": [
+      "Luxemburgo"
+     ]
+    }
+   ],
+   "source": "https://pt.wikipedia.org/wiki/Luxemburgo_(cidade)",
+   "sourceTitle": "Wikipedia – Luxemburgo (cidade)"
+  }
+ ],
+ "language": "pt",
+ "count": 30
+}

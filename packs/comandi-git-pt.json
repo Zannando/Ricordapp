@@ -1,0 +1,56 @@
+{
+ "id": "comandi-git-pt",
+ "category": "CODE",
+ "title": "Comandos Git essenciais",
+ "description": "Os comandos Git que se usam todos os dias.",
+ "lang": "",
+ "version": 1,
+ "cards": [
+  {
+   "front": "git init",
+   "back": "Cria um novo repositório Git na pasta atual.\n\n```!bash\ngit init\n```"
+  },
+  {
+   "front": "git clone",
+   "back": "Copia localmente um repositório remoto, com toda a sua história.\n\n```!bash\ngit clone https://github.com/utilizador/projeto.git\n```"
+  },
+  {
+   "front": "git status",
+   "back": "Mostra os ficheiros modificados, os prontos para o commit e o ramo atual.\n\n```!bash\ngit status\n```"
+  },
+  {
+   "front": "git add",
+   "back": "Adiciona as alterações à área de preparação (staging) para o próximo commit.\n\n```!bash\ngit add ficheiro.txt\n```"
+  },
+  {
+   "front": "git commit",
+   "back": "Regista na história as alterações preparadas, com uma mensagem.\n\n```!bash\ngit commit -m \"Mensagem\"\n```"
+  },
+  {
+   "front": "git push",
+   "back": "Envia os commits locais para o repositório remoto.\n\n```!bash\ngit push origin main\n```"
+  },
+  {
+   "front": "git pull",
+   "back": "Descarrega as alterações do remoto e junta-as ao ramo atual (fetch + merge).\n\n```!bash\ngit pull\n```"
+  },
+  {
+   "front": "git branch",
+   "back": "Lista os ramos; com um nome, cria um novo.\n\n```!bash\ngit branch nova-funcionalidade\n```"
+  },
+  {
+   "front": "git checkout",
+   "back": "Muda para outro ramo; com -b cria-o e muda para ele.\n\n```!bash\ngit checkout -b nova-funcionalidade\n```"
+  },
+  {
+   "front": "git merge",
+   "back": "Junta ao ramo atual a história de outro ramo.\n\n```!bash\ngit merge nova-funcionalidade\n```"
+  },
+  {
+   "front": "git log",
+   "back": "Mostra a história dos commits; --oneline torna-a compacta.\n\n```!bash\ngit log --oneline\n```"
+  }
+ ],
+ "language": "pt",
+ "count": 11
+}

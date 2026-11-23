@@ -1,0 +1,56 @@
+{
+ "id": "comandi-git-fr",
+ "category": "CODE",
+ "title": "Commandes Git essentielles",
+ "description": "Les commandes Git qu'on utilise tous les jours.",
+ "lang": "",
+ "version": 1,
+ "cards": [
+  {
+   "front": "git init",
+   "back": "Crée un nouveau dépôt Git dans le dossier courant.\n\n```!bash\ngit init\n```"
+  },
+  {
+   "front": "git clone",
+   "back": "Copie en local un dépôt distant, avec tout son historique.\n\n```!bash\ngit clone https://github.com/utilisateur/projet.git\n```"
+  },
+  {
+   "front": "git status",
+   "back": "Affiche les fichiers modifiés, ceux prêts pour le commit et la branche courante.\n\n```!bash\ngit status\n```"
+  },
+  {
+   "front": "git add",
+   "back": "Ajoute les modifications à la zone de préparation (staging) pour le prochain commit.\n\n```!bash\ngit add fichier.txt\n```"
+  },
+  {
+   "front": "git commit",
+   "back": "Enregistre dans l'historique les modifications préparées, avec un message.\n\n```!bash\ngit commit -m \"Message\"\n```"
+  },
+  {
+   "front": "git push",
+   "back": "Envoie les commits locaux au dépôt distant.\n\n```!bash\ngit push origin main\n```"
+  },
+  {
+   "front": "git pull",
+   "back": "Récupère les modifications du dépôt distant et les fusionne dans la branche courante (fetch + merge).\n\n```!bash\ngit pull\n```"
+  },
+  {
+   "front": "git branch",
+   "back": "Liste les branches ; avec un nom, en crée une nouvelle.\n\n```!bash\ngit branch nouvelle-fonction\n```"
+  },
+  {
+   "front": "git checkout",
+   "back": "Passe à une autre branche ; avec -b, la crée et s'y place.\n\n```!bash\ngit checkout -b nouvelle-fonction\n```"
+  },
+  {
+   "front": "git merge",
+   "back": "Fusionne dans la branche courante l'historique d'une autre branche.\n\n```!bash\ngit merge nouvelle-fonction\n```"
+  },
+  {
+   "front": "git log",
+   "back": "Affiche l'historique des commits ; --oneline le rend compact.\n\n```!bash\ngit log --oneline\n```"
+  }
+ ],
+ "language": "fr",
+ "count": 11
+}

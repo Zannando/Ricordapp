@@ -1,0 +1,492 @@
+{
+ "id": "capitali-europa-de",
+ "category": "PLACE",
+ "title": "Hauptstädte Europas",
+ "description": "Die Hauptstädte der europäischen Staaten: wo sie liegen, was sie auszeichnet und ihre Lage auf der Karte.",
+ "lang": "",
+ "version": 1,
+ "cards": [
+  {
+   "front": "Rom",
+   "back": "Hauptstadt von Italien. Sie liegt am Tiber und umschließt die Vatikanstadt. Der Überlieferung nach wurde sie 753 v. Chr. gegründet.\n\n[mappa: Rom]",
+   "lat": 41.9028,
+   "lon": 12.4964,
+   "people": [
+    {
+     "role": "Land",
+     "names": [
+      "Italien"
+     ]
+    }
+   ],
+   "source": "https://de.wikipedia.org/wiki/Rom",
+   "sourceTitle": "Wikipedia – Rom"
+  },
+  {
+   "front": "Paris",
+   "back": "Hauptstadt von Frankreich. Von der Seine durchflossen, ist sie die Stadt des Eiffelturms und des Louvre.\n\n[mappa: Paris]",
+   "lat": 48.8566,
+   "lon": 2.3522,
+   "people": [
+    {
+     "role": "Land",
+     "names": [
+      "Frankreich"
+     ]
+    }
+   ],
+   "source": "https://de.wikipedia.org/wiki/Paris",
+   "sourceTitle": "Wikipedia – Paris"
+  },
+  {
+   "front": "Berlin",
+   "back": "Hauptstadt von Deutschland. An der Spree. Von 1961 bis 1989 war sie durch die Mauer geteilt; seit 1990 ist sie Hauptstadt des wiedervereinigten Deutschlands.\n\n[mappa: Berlin]",
+   "lat": 52.52,
+   "lon": 13.405,
+   "people": [
+    {
+     "role": "Land",
+     "names": [
+      "Deutschland"
+     ]
+    }
+   ],
+   "source": "https://de.wikipedia.org/wiki/Berlin",
+   "sourceTitle": "Wikipedia – Berlin"
+  },
+  {
+   "front": "Madrid",
+   "back": "Hauptstadt von Spanien. In der Mitte der Iberischen Halbinsel, am Fluss Manzanares; Sitz des Prado-Museums.\n\n[mappa: Madrid]",
+   "lat": 40.4168,
+   "lon": -3.7038,
+   "people": [
+    {
+     "role": "Land",
+     "names": [
+      "Spanien"
+     ]
+    }
+   ],
+   "source": "https://de.wikipedia.org/wiki/Madrid",
+   "sourceTitle": "Wikipedia – Madrid"
+  },
+  {
+   "front": "Lissabon",
+   "back": "Hauptstadt von Portugal. An der Mündung des Tejo, am Atlantik; sie wurde 1755 durch ein Erdbeben großteils zerstört.\n\n[mappa: Lissabon]",
+   "lat": 38.7223,
+   "lon": -9.1393,
+   "people": [
+    {
+     "role": "Land",
+     "names": [
+      "Portugal"
+     ]
+    }
+   ],
+   "source": "https://de.wikipedia.org/wiki/Lissabon",
+   "sourceTitle": "Wikipedia – Lissabon"
+  },
+  {
+   "front": "Wien",
+   "back": "Hauptstadt von Österreich. An der Donau; sie war Hauptstadt des Habsburgerreichs und ist eng mit der großen klassischen Musik verbunden.\n\n[mappa: Wien]",
+   "lat": 48.2082,
+   "lon": 16.3738,
+   "people": [
+    {
+     "role": "Land",
+     "names": [
+      "Österreich"
+     ]
+    }
+   ],
+   "source": "https://de.wikipedia.org/wiki/Wien",
+   "sourceTitle": "Wikipedia – Wien"
+  },
+  {
+   "front": "Bern",
+   "back": "Hauptstadt der Schweiz. An der Aare; sie ist die Schweizer «Bundesstadt», und ihre Altstadt gehört zum UNESCO-Welterbe.\n\n[mappa: Bern]",
+   "lat": 46.948,
+   "lon": 7.4474,
+   "people": [
+    {
+     "role": "Land",
+     "names": [
+      "Schweiz"
+     ]
+    }
+   ],
+   "source": "https://de.wikipedia.org/wiki/Bern",
+   "sourceTitle": "Wikipedia – Bern"
+  },
+  {
+   "front": "Brüssel",
+   "back": "Hauptstadt von Belgien. Sitz vieler Institutionen der Europäischen Union wie Kommission und Rat sowie des NATO-Hauptquartiers.\n\n[mappa: Brüssel]",
+   "lat": 50.8503,
+   "lon": 4.3517,
+   "people": [
+    {
+     "role": "Land",
+     "names": [
+      "Belgien"
+     ]
+    }
+   ],
+   "source": "https://de.wikipedia.org/wiki/Brüssel",
+   "sourceTitle": "Wikipedia – Brüssel"
+  },
+  {
+   "front": "Amsterdam",
+   "back": "Hauptstadt der Niederlande. Die verfassungsmäßige Hauptstadt, berühmt für ihre Grachten; Regierung und Parlament sitzen jedoch in Den Haag.\n\n[mappa: Amsterdam]",
+   "lat": 52.3676,
+   "lon": 4.9041,
+   "people": [
+    {
+     "role": "Land",
+     "names": [
+      "Niederlande"
+     ]
+    }
+   ],
+   "source": "https://de.wikipedia.org/wiki/Amsterdam",
+   "sourceTitle": "Wikipedia – Amsterdam"
+  },
+  {
+   "front": "Warschau",
+   "back": "Hauptstadt von Polen. An der Weichsel; die im Zweiten Weltkrieg zerstörte Altstadt wurde wiederaufgebaut und gehört zum UNESCO-Welterbe.\n\n[mappa: Warschau]",
+   "lat": 52.2297,
+   "lon": 21.0122,
+   "people": [
+    {
+     "role": "Land",
+     "names": [
+      "Polen"
+     ]
+    }
+   ],
+   "source": "https://de.wikipedia.org/wiki/Warschau",
+   "sourceTitle": "Wikipedia – Warschau"
+  },
+  {
+   "front": "Prag",
+   "back": "Hauptstadt von Tschechien. An der Moldau, mit der Karlsbrücke und dem großen Burgareal.\n\n[mappa: Prag]",
+   "lat": 50.0755,
+   "lon": 14.4378,
+   "people": [
+    {
+     "role": "Land",
+     "names": [
+      "Tschechien"
+     ]
+    }
+   ],
+   "source": "https://de.wikipedia.org/wiki/Prag",
+   "sourceTitle": "Wikipedia – Prag"
+  },
+  {
+   "front": "Budapest",
+   "back": "Hauptstadt von Ungarn. An der Donau; sie entstand 1873 aus der Vereinigung von Buda, Óbuda und Pest.\n\n[mappa: Budapest]",
+   "lat": 47.4979,
+   "lon": 19.0402,
+   "people": [
+    {
+     "role": "Land",
+     "names": [
+      "Ungarn"
+     ]
+    }
+   ],
+   "source": "https://de.wikipedia.org/wiki/Budapest",
+   "sourceTitle": "Wikipedia – Budapest"
+  },
+  {
+   "front": "Athen",
+   "back": "Hauptstadt von Griechenland. Überragt von der Akropolis mit dem Parthenon, gilt sie als Wiege der Demokratie.\n\n[mappa: Athen]",
+   "lat": 37.9838,
+   "lon": 23.7275,
+   "people": [
+    {
+     "role": "Land",
+     "names": [
+      "Griechenland"
+     ]
+    }
+   ],
+   "source": "https://de.wikipedia.org/wiki/Athen",
+   "sourceTitle": "Wikipedia – Athen"
+  },
+  {
+   "front": "Stockholm",
+   "back": "Hauptstadt von Schweden. Auf Inseln zwischen dem Mälarsee und der Ostsee erbaut; hier werden die Nobelpreise verliehen, außer dem Friedensnobelpreis.\n\n[mappa: Stockholm]",
+   "lat": 59.3293,
+   "lon": 18.0686,
+   "people": [
+    {
+     "role": "Land",
+     "names": [
+      "Schweden"
+     ]
+    }
+   ],
+   "source": "https://de.wikipedia.org/wiki/Stockholm",
+   "sourceTitle": "Wikipedia – Stockholm"
+  },
+  {
+   "front": "Oslo",
+   "back": "Hauptstadt von Norwegen. Am Ende des Oslofjords; hier wird der Friedensnobelpreis verliehen.\n\n[mappa: Oslo]",
+   "lat": 59.9139,
+   "lon": 10.7522,
+   "people": [
+    {
+     "role": "Land",
+     "names": [
+      "Norwegen"
+     ]
+    }
+   ],
+   "source": "https://de.wikipedia.org/wiki/Oslo",
+   "sourceTitle": "Wikipedia – Oslo"
+  },
+  {
+   "front": "Kopenhagen",
+   "back": "Hauptstadt von Dänemark. Am Öresund, gegenüber Schweden, mit dem sie eine Brücke verbindet; berühmt für die Statue der Kleinen Meerjungfrau.\n\n[mappa: Kopenhagen]",
+   "lat": 55.6761,
+   "lon": 12.5683,
+   "people": [
+    {
+     "role": "Land",
+     "names": [
+      "Dänemark"
+     ]
+    }
+   ],
+   "source": "https://de.wikipedia.org/wiki/Kopenhagen",
+   "sourceTitle": "Wikipedia – Kopenhagen"
+  },
+  {
+   "front": "Helsinki",
+   "back": "Hauptstadt von Finnland. Am Finnischen Meerbusen, an der Ostsee.\n\n[mappa: Helsinki]",
+   "lat": 60.1699,
+   "lon": 24.9384,
+   "people": [
+    {
+     "role": "Land",
+     "names": [
+      "Finnland"
+     ]
+    }
+   ],
+   "source": "https://de.wikipedia.org/wiki/Helsinki",
+   "sourceTitle": "Wikipedia – Helsinki"
+  },
+  {
+   "front": "Dublin",
+   "back": "Hauptstadt von Irland. An der Mündung des Liffey, an der Dublin Bay.\n\n[mappa: Dublin]",
+   "lat": 53.3498,
+   "lon": -6.2603,
+   "people": [
+    {
+     "role": "Land",
+     "names": [
+      "Irland"
+     ]
+    }
+   ],
+   "source": "https://de.wikipedia.org/wiki/Dublin",
+   "sourceTitle": "Wikipedia – Dublin"
+  },
+  {
+   "front": "London",
+   "back": "Hauptstadt des Vereinigten Königreichs. An der Themse; in Westminster sitzen das britische Parlament und die Regierung.\n\n[mappa: London]",
+   "lat": 51.5074,
+   "lon": -0.1278,
+   "people": [
+    {
+     "role": "Land",
+     "names": [
+      "Vereinigtes Königreich"
+     ]
+    }
+   ],
+   "source": "https://de.wikipedia.org/wiki/London",
+   "sourceTitle": "Wikipedia – London"
+  },
+  {
+   "front": "Ljubljana",
+   "back": "Hauptstadt von Slowenien. Von der Ljubljanica durchflossen, mit der Burg auf dem Hügel in der Mitte.\n\n[mappa: Ljubljana]",
+   "lat": 46.0569,
+   "lon": 14.5058,
+   "people": [
+    {
+     "role": "Land",
+     "names": [
+      "Slowenien"
+     ]
+    }
+   ],
+   "source": "https://de.wikipedia.org/wiki/Ljubljana",
+   "sourceTitle": "Wikipedia – Ljubljana"
+  },
+  {
+   "front": "Zagreb",
+   "back": "Hauptstadt von Kroatien. An der Save, am Fuß des Medvednica-Gebirges.\n\n[mappa: Zagreb]",
+   "lat": 45.815,
+   "lon": 15.9819,
+   "people": [
+    {
+     "role": "Land",
+     "names": [
+      "Kroatien"
+     ]
+    }
+   ],
+   "source": "https://de.wikipedia.org/wiki/Zagreb",
+   "sourceTitle": "Wikipedia – Zagreb"
+  },
+  {
+   "front": "Bukarest",
+   "back": "Hauptstadt von Rumänien. An der Dâmbovița; der Parlamentspalast gehört zu den größten Gebäuden der Welt.\n\n[mappa: Bukarest]",
+   "lat": 44.4268,
+   "lon": 26.1025,
+   "people": [
+    {
+     "role": "Land",
+     "names": [
+      "Rumänien"
+     ]
+    }
+   ],
+   "source": "https://de.wikipedia.org/wiki/Bukarest",
+   "sourceTitle": "Wikipedia – Bukarest"
+  },
+  {
+   "front": "Sofia",
+   "back": "Hauptstadt von Bulgarien. Am Fuß des Witoscha-Gebirges, im Westen des Landes.\n\n[mappa: Sofia]",
+   "lat": 42.6977,
+   "lon": 23.3219,
+   "people": [
+    {
+     "role": "Land",
+     "names": [
+      "Bulgarien"
+     ]
+    }
+   ],
+   "source": "https://de.wikipedia.org/wiki/Sofia",
+   "sourceTitle": "Wikipedia – Sofia"
+  },
+  {
+   "front": "Tallinn",
+   "back": "Hauptstadt von Estland. Am Finnischen Meerbusen; die mittelalterliche Altstadt gehört zum UNESCO-Welterbe.\n\n[mappa: Tallinn]",
+   "lat": 59.437,
+   "lon": 24.7536,
+   "people": [
+    {
+     "role": "Land",
+     "names": [
+      "Estland"
+     ]
+    }
+   ],
+   "source": "https://de.wikipedia.org/wiki/Tallinn",
+   "sourceTitle": "Wikipedia – Tallinn"
+  },
+  {
+   "front": "Riga",
+   "back": "Hauptstadt von Lettland. An der Düna, nahe der Rigaer Bucht; berühmt für ihre Jugendstilbauten.\n\n[mappa: Riga]",
+   "lat": 56.9496,
+   "lon": 24.1052,
+   "people": [
+    {
+     "role": "Land",
+     "names": [
+      "Lettland"
+     ]
+    }
+   ],
+   "source": "https://de.wikipedia.org/wiki/Riga",
+   "sourceTitle": "Wikipedia – Riga"
+  },
+  {
+   "front": "Vilnius",
+   "back": "Hauptstadt von Litauen. Am Zusammenfluss von Neris und Vilnia; die barocke Altstadt gehört zum UNESCO-Welterbe.\n\n[mappa: Vilnius]",
+   "lat": 54.6872,
+   "lon": 25.2797,
+   "people": [
+    {
+     "role": "Land",
+     "names": [
+      "Litauen"
+     ]
+    }
+   ],
+   "source": "https://de.wikipedia.org/wiki/Vilnius",
+   "sourceTitle": "Wikipedia – Vilnius"
+  },
+  {
+   "front": "Bratislava",
+   "back": "Hauptstadt der Slowakei. An der Donau, an der Grenze zu Österreich und Ungarn.\n\n[mappa: Bratislava]",
+   "lat": 48.1486,
+   "lon": 17.1077,
+   "people": [
+    {
+     "role": "Land",
+     "names": [
+      "Slowakei"
+     ]
+    }
+   ],
+   "source": "https://de.wikipedia.org/wiki/Bratislava",
+   "sourceTitle": "Wikipedia – Bratislava"
+  },
+  {
+   "front": "Reykjavík",
+   "back": "Hauptstadt von Island. Sie ist die nördlichste Hauptstadt eines souveränen Staates der Welt.\n\n[mappa: Reykjavík]",
+   "lat": 64.1466,
+   "lon": -21.9426,
+   "people": [
+    {
+     "role": "Land",
+     "names": [
+      "Island"
+     ]
+    }
+   ],
+   "source": "https://de.wikipedia.org/wiki/Reykjavík",
+   "sourceTitle": "Wikipedia – Reykjavík"
+  },
+  {
+   "front": "Valletta",
+   "back": "Hauptstadt von Malta. 1566 von den Johanniterrittern gegründet, ist sie eine der kleinsten Hauptstädte der Europäischen Union.\n\n[mappa: Valletta]",
+   "lat": 35.8989,
+   "lon": 14.5146,
+   "people": [
+    {
+     "role": "Land",
+     "names": [
+      "Malta"
+     ]
+    }
+   ],
+   "source": "https://de.wikipedia.org/wiki/Valletta",
+   "sourceTitle": "Wikipedia – Valletta"
+  },
+  {
+   "front": "Luxemburg",
+   "back": "Hauptstadt von Luxemburg. Sitz des Gerichtshofs der Europäischen Union; die Altstadt mit den alten Festungsanlagen gehört zum UNESCO-Welterbe.\n\n[mappa: Q1842]",
+   "lat": 49.6116,
+   "lon": 6.1319,
+   "people": [
+    {
+     "role": "Land",
+     "names": [
+      "Luxemburg"
+     ]
+    }
+   ],
+   "source": "https://de.wikipedia.org/wiki/Luxemburg_(Stadt)",
+   "sourceTitle": "Wikipedia – Luxemburg (Stadt)"
+  }
+ ],
+ "language": "de",
+ "count": 30
+}

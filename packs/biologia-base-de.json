@@ -1,0 +1,69 @@
+{
+ "id": "biologia-base-de",
+ "category": "CONCEPT",
+ "title": "Grundlagen der Biologie",
+ "description": "Die grundlegenden Begriffe der Biologie, miteinander verknüpft.",
+ "lang": "",
+ "version": 1,
+ "cards": [
+  {
+   "front": "Zelle",
+   "back": "Die kleinste Einheit eines Lebewesens. Sie hat eine Membran, Zytoplasma und Erbgut ([[DNA]]); sie kann prokaryotisch sein, ohne Zellkern, oder eukaryotisch, mit Zellkern."
+  },
+  {
+   "front": "DNA",
+   "back": "Desoxyribonukleinsäure: das Molekül, das die Erbinformation speichert. Sie ist eine Doppelhelix aus Nukleotiden (A, T, C, G); die Abschnitte, die für Proteine codieren, heißen Gene (siehe [[Gen]]).",
+   "parent": "Zelle"
+  },
+  {
+   "front": "Gen",
+   "back": "Abschnitt der [[DNA]], der die Information zur Bildung eines Proteins oder einer funktionellen RNA enthält. Es ist die Einheit der Vererbung.",
+   "parent": "DNA"
+  },
+  {
+   "front": "Mitose",
+   "back": "Teilung einer [[Zelle]] in zwei Tochterzellen, die der Mutterzelle gleichen, mit derselben Chromosomenzahl. Sie dient dem Wachstum und der Gewebereparatur."
+  },
+  {
+   "front": "Meiose",
+   "back": "Zellteilung, die Keimzellen mit der Hälfte der Chromosomen der Mutterzelle bildet. Sie mischt die Gene ([[Gen]]) neu und erzeugt Vielfalt.",
+   "parent": "Mitose"
+  },
+  {
+   "front": "Photosynthese",
+   "back": "Vorgang, bei dem Pflanzen, Algen und einige Bakterien mit Licht aus Kohlendioxid und Wasser Glukose herstellen und dabei Sauerstoff freisetzen. Er findet in einem Organell statt, dem [[Chloroplast]]."
+  },
+  {
+   "front": "Chloroplast",
+   "back": "Organell der Pflanzenzellen, das Chlorophyll enthält und die [[Photosynthese]] durchführt.",
+   "parent": "Zelle"
+  },
+  {
+   "front": "Mitochondrium",
+   "back": "Organell, das den Großteil der Energie der Zelle (ATP) durch die [[Zellatmung]] erzeugt. Es hat eine eigene DNA.",
+   "parent": "Zelle"
+  },
+  {
+   "front": "Zellatmung",
+   "back": "Vorgang, der im [[Mitochondrium]] Glukose mit Sauerstoff abbaut, um ATP zu gewinnen, wobei Kohlendioxid und Wasser frei werden."
+  },
+  {
+   "front": "Enzym",
+   "back": "Protein, das eine chemische Reaktion im Körper beschleunigt, ohne verbraucht zu werden. Es wirkt auf ein bestimmtes Substrat."
+  },
+  {
+   "front": "Natürliche Selektion",
+   "back": "Mechanismus der [[Evolution]], den Darwin beschrieb: Individuen mit Merkmalen, die besser an die Umwelt angepasst sind, überleben und vermehren sich stärker und geben diese Merkmale weiter."
+  },
+  {
+   "front": "Evolution",
+   "back": "Veränderung der erblichen Merkmale von Populationen über Generationen, vor allem angetrieben durch die [[Natürliche Selektion]]."
+  },
+  {
+   "front": "Homöostase",
+   "back": "Fähigkeit eines Organismus, seine inneren Bedingungen (Temperatur, Blutzucker, pH-Wert) stabil zu halten, wenn sich die äußeren ändern."
+  }
+ ],
+ "language": "de",
+ "count": 13
+}

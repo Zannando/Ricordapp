@@ -1,0 +1,131 @@
+{
+ "id": "scienziati-de",
+ "category": "NAME",
+ "title": "Große Wissenschaftler",
+ "description": "Wer sie waren und was einige der Großen der Wissenschaft entdeckt haben.",
+ "lang": "",
+ "version": 1,
+ "cards": [
+  {
+   "front": "Galileo Galilei",
+   "date": "1564/1642",
+   "back": "Italienischer Physiker, Astronom und Philosoph, Vater der modernen naturwissenschaftlichen Methode. Mit dem Fernrohr entdeckte er die Jupitermonde und die Phasen der Venus und stützte so das kopernikanische System; dafür stand er 1633 vor der Inquisition.",
+   "source": "https://de.wikipedia.org/wiki/Galileo_Galilei",
+   "sourceTitle": "Wikipedia – Galileo Galilei",
+   "people": [
+    {
+     "role": "Werke",
+     "names": [
+      "Sidereus Nuncius",
+      "Dialog über die beiden hauptsächlichen Weltsysteme"
+     ]
+    }
+   ]
+  },
+  {
+   "front": "Isaac Newton",
+   "date": "1643/1727",
+   "back": "Englischer Mathematiker und Physiker. Er formulierte die drei Bewegungsgesetze und das Gravitationsgesetz und entwickelte gleichzeitig mit Leibniz die Infinitesimalrechnung.",
+   "source": "https://de.wikipedia.org/wiki/Isaac_Newton",
+   "sourceTitle": "Wikipedia – Isaac Newton",
+   "people": [
+    {
+     "role": "Werke",
+     "names": [
+      "Philosophiæ Naturalis Principia Mathematica",
+      "Opticks"
+     ]
+    }
+   ]
+  },
+  {
+   "front": "Charles Darwin",
+   "date": "1809/1882",
+   "back": "Britischer Naturforscher, Begründer der Evolutionstheorie durch natürliche Selektion, die während seiner Weltreise auf der Beagle reifte.",
+   "source": "https://de.wikipedia.org/wiki/Charles_Darwin",
+   "sourceTitle": "Wikipedia – Charles Darwin",
+   "people": [
+    {
+     "role": "Werke",
+     "names": [
+      "Über die Entstehung der Arten",
+      "Die Abstammung des Menschen"
+     ]
+    }
+   ]
+  },
+  {
+   "front": "Marie Curie",
+   "date": "1867/1934",
+   "back": "Polnisch-französische Physikerin und Chemikerin, Pionierin der Radioaktivität. Sie entdeckte Polonium und Radium und erhielt als erster Mensch zwei Nobelpreise, für Physik (1903) und Chemie (1911).",
+   "source": "https://de.wikipedia.org/wiki/Marie_Curie",
+   "sourceTitle": "Wikipedia – Marie Curie"
+  },
+  {
+   "front": "Albert Einstein",
+   "date": "1879/1955",
+   "back": "Deutscher, später schweizerischer und US-amerikanischer Physiker. Er formulierte die spezielle und die allgemeine Relativitätstheorie und erklärte den photoelektrischen Effekt, wofür er 1921 den Nobelpreis für Physik erhielt.",
+   "source": "https://de.wikipedia.org/wiki/Albert_Einstein",
+   "sourceTitle": "Wikipedia – Albert Einstein"
+  },
+  {
+   "front": "Gregor Mendel",
+   "date": "1822/1884",
+   "back": "Böhmischer Biologe und Augustinermönch. Durch Kreuzungen von Erbsenpflanzen entdeckte er die Vererbungsregeln, die Grundlage der Genetik.",
+   "source": "https://de.wikipedia.org/wiki/Gregor_Mendel",
+   "sourceTitle": "Wikipedia – Gregor Mendel"
+  },
+  {
+   "front": "Louis Pasteur",
+   "date": "1822/1895",
+   "back": "Französischer Chemiker und Mikrobiologe. Er zeigte, dass Gärungen und viele Krankheiten von Mikroorganismen verursacht werden, und entwickelte die Pasteurisierung und den Impfstoff gegen Tollwut.",
+   "source": "https://de.wikipedia.org/wiki/Louis_Pasteur",
+   "sourceTitle": "Wikipedia – Louis Pasteur"
+  },
+  {
+   "front": "Rosalind Franklin",
+   "date": "1920/1958",
+   "back": "Britische Chemikerin. Ihre Röntgenbeugungsbilder, etwa «Foto 51», waren entscheidend für die Entdeckung der Doppelhelix-Struktur der DNA.",
+   "source": "https://de.wikipedia.org/wiki/Rosalind_Franklin",
+   "sourceTitle": "Wikipedia – Rosalind Franklin"
+  },
+  {
+   "front": "Dmitri Mendelejew",
+   "date": "1834/1907",
+   "back": "Russischer Chemiker. 1869 ordnete er die Elemente im Periodensystem und ließ Lücken für noch unentdeckte Elemente, deren Eigenschaften er vorhersagte.",
+   "source": "https://de.wikipedia.org/wiki/Dmitri_Iwanowitsch_Mendelejew",
+   "sourceTitle": "Wikipedia – Dmitri Iwanowitsch Mendelejew"
+  },
+  {
+   "front": "Enrico Fermi",
+   "date": "1901/1954",
+   "back": "Italienischer Physiker, Nobelpreis 1938. Er erforschte langsame Neutronen und leitete in Chicago den Bau des ersten Kernreaktors, der 1942 die erste kontrollierte nukleare Kettenreaktion auslöste.",
+   "source": "https://de.wikipedia.org/wiki/Enrico_Fermi",
+   "sourceTitle": "Wikipedia – Enrico Fermi"
+  },
+  {
+   "front": "Rita Levi-Montalcini",
+   "date": "1909/2012",
+   "back": "Italienische Neurologin. Sie entdeckte den Nervenwachstumsfaktor (NGF), wofür sie 1986 den Nobelpreis für Medizin erhielt; sie war Senatorin auf Lebenszeit.",
+   "source": "https://de.wikipedia.org/wiki/Rita_Levi-Montalcini",
+   "sourceTitle": "Wikipedia – Rita Levi-Montalcini"
+  },
+  {
+   "front": "Nikolaus Kopernikus",
+   "date": "1473/1543",
+   "back": "Polnischer Astronom. Er schlug das heliozentrische Weltbild vor, mit der Sonne im Zentrum und der Erde, die sie umkreist.",
+   "source": "https://de.wikipedia.org/wiki/Nikolaus_Kopernikus",
+   "sourceTitle": "Wikipedia – Nikolaus Kopernikus",
+   "people": [
+    {
+     "role": "Werke",
+     "names": [
+      "De revolutionibus orbium coelestium"
+     ]
+    }
+   ]
+  }
+ ],
+ "language": "de",
+ "count": 12
+}

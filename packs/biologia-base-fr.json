@@ -1,0 +1,69 @@
+{
+ "id": "biologia-base-fr",
+ "category": "CONCEPT",
+ "title": "Biologie de base",
+ "description": "Les concepts fondamentaux de la biologie, reliés entre eux.",
+ "lang": "",
+ "version": 1,
+ "cards": [
+  {
+   "front": "Cellule",
+   "back": "La plus petite unité d'un être vivant. Elle possède une membrane, un cytoplasme et un matériel génétique ([[ADN]]) ; elle peut être procaryote, sans noyau, ou eucaryote, avec noyau."
+  },
+  {
+   "front": "ADN",
+   "back": "Acide désoxyribonucléique : la molécule qui conserve l'information génétique. C'est une double hélice de nucléotides (A, T, C, G) ; les segments qui codent des protéines s'appellent des gènes (voir [[Gène]]).",
+   "parent": "Cellule"
+  },
+  {
+   "front": "Gène",
+   "back": "Segment d'[[ADN]] qui contient l'information pour fabriquer une protéine ou un ARN fonctionnel. C'est l'unité de l'hérédité.",
+   "parent": "ADN"
+  },
+  {
+   "front": "Mitose",
+   "back": "Division d'une [[Cellule]] en deux cellules filles identiques à la cellule mère, avec le même nombre de chromosomes. Elle sert à la croissance et à la réparation des tissus."
+  },
+  {
+   "front": "Méiose",
+   "back": "Division cellulaire qui produit les gamètes, avec la moitié des chromosomes de la cellule mère. Elle brasse les gènes ([[Gène]]) et crée de la variabilité.",
+   "parent": "Mitose"
+  },
+  {
+   "front": "Photosynthèse",
+   "back": "Processus par lequel les plantes, les algues et certaines bactéries utilisent la lumière pour produire du glucose à partir de dioxyde de carbone et d'eau, en libérant de l'oxygène. Il a lieu dans un organite, le [[Chloroplaste]]."
+  },
+  {
+   "front": "Chloroplaste",
+   "back": "Organite des cellules végétales qui contient la chlorophylle et réalise la [[Photosynthèse]].",
+   "parent": "Cellule"
+  },
+  {
+   "front": "Mitochondrie",
+   "back": "Organite qui produit l'essentiel de l'énergie de la cellule (ATP) par la [[Respiration cellulaire]]. Elle possède son propre ADN.",
+   "parent": "Cellule"
+  },
+  {
+   "front": "Respiration cellulaire",
+   "back": "Processus qui, dans la [[Mitochondrie]], dégrade le glucose avec l'oxygène pour produire de l'ATP, en libérant du dioxyde de carbone et de l'eau."
+  },
+  {
+   "front": "Enzyme",
+   "back": "Protéine qui accélère une réaction chimique dans l'organisme sans être consommée. Elle agit sur un substrat spécifique."
+  },
+  {
+   "front": "Sélection naturelle",
+   "back": "Mécanisme de l'[[Évolution]] décrit par Darwin : les individus aux caractères mieux adaptés à l'environnement survivent et se reproduisent davantage, en les transmettant."
+  },
+  {
+   "front": "Évolution",
+   "back": "Changement des caractères héréditaires des populations au fil des générations, guidé surtout par la [[Sélection naturelle]]."
+  },
+  {
+   "front": "Homéostasie",
+   "back": "Capacité d'un organisme à maintenir stables ses conditions internes (température, glycémie, pH) quand celles de l'extérieur changent."
+  }
+ ],
+ "language": "fr",
+ "count": 13
+}

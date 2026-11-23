@@ -1,0 +1,56 @@
+{
+ "id": "comandi-git-de",
+ "category": "CODE",
+ "title": "Wichtige Git-Befehle",
+ "description": "Die Git-Befehle, die man jeden Tag braucht.",
+ "lang": "",
+ "version": 1,
+ "cards": [
+  {
+   "front": "git init",
+   "back": "Erstellt ein neues Git-Repository im aktuellen Ordner.\n\n```!bash\ngit init\n```"
+  },
+  {
+   "front": "git clone",
+   "back": "Kopiert ein entferntes Repository mit seiner ganzen Geschichte auf den Rechner.\n\n```!bash\ngit clone https://github.com/benutzer/projekt.git\n```"
+  },
+  {
+   "front": "git status",
+   "back": "Zeigt geänderte Dateien, die für den Commit vorgemerkten und den aktuellen Branch.\n\n```!bash\ngit status\n```"
+  },
+  {
+   "front": "git add",
+   "back": "Fügt Änderungen der Staging-Area für den nächsten Commit hinzu.\n\n```!bash\ngit add datei.txt\n```"
+  },
+  {
+   "front": "git commit",
+   "back": "Speichert die vorgemerkten Änderungen mit einer Nachricht in der Geschichte.\n\n```!bash\ngit commit -m \"Nachricht\"\n```"
+  },
+  {
+   "front": "git push",
+   "back": "Sendet lokale Commits an das entfernte Repository.\n\n```!bash\ngit push origin main\n```"
+  },
+  {
+   "front": "git pull",
+   "back": "Holt Änderungen vom entfernten Repository und führt sie in den aktuellen Branch zusammen (fetch + merge).\n\n```!bash\ngit pull\n```"
+  },
+  {
+   "front": "git branch",
+   "back": "Listet die Branches auf; mit einem Namen wird ein neuer erstellt.\n\n```!bash\ngit branch neue-funktion\n```"
+  },
+  {
+   "front": "git checkout",
+   "back": "Wechselt zu einem anderen Branch; mit -b wird er erstellt und gewechselt.\n\n```!bash\ngit checkout -b neue-funktion\n```"
+  },
+  {
+   "front": "git merge",
+   "back": "Führt die Geschichte eines anderen Branches in den aktuellen zusammen.\n\n```!bash\ngit merge neue-funktion\n```"
+  },
+  {
+   "front": "git log",
+   "back": "Zeigt die Commit-Geschichte; --oneline macht sie kompakt.\n\n```!bash\ngit log --oneline\n```"
+  }
+ ],
+ "language": "de",
+ "count": 11
+}

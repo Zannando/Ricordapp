@@ -1,0 +1,56 @@
+{
+ "id": "comandi-git-en",
+ "category": "CODE",
+ "title": "Essential Git commands",
+ "description": "The Git commands you use every day.",
+ "lang": "",
+ "version": 1,
+ "cards": [
+  {
+   "front": "git init",
+   "back": "Creates a new Git repository in the current folder.\n\n```!bash\ngit init\n```"
+  },
+  {
+   "front": "git clone",
+   "back": "Copies a remote repository locally, with its whole history.\n\n```!bash\ngit clone https://github.com/user/project.git\n```"
+  },
+  {
+   "front": "git status",
+   "back": "Shows modified files, those ready to commit and the current branch.\n\n```!bash\ngit status\n```"
+  },
+  {
+   "front": "git add",
+   "back": "Adds changes to the staging area for the next commit.\n\n```!bash\ngit add file.txt\n```"
+  },
+  {
+   "front": "git commit",
+   "back": "Records the staged changes in the history, with a message.\n\n```!bash\ngit commit -m \"Message\"\n```"
+  },
+  {
+   "front": "git push",
+   "back": "Sends local commits to the remote repository.\n\n```!bash\ngit push origin main\n```"
+  },
+  {
+   "front": "git pull",
+   "back": "Downloads changes from the remote and merges them into the current branch (fetch + merge).\n\n```!bash\ngit pull\n```"
+  },
+  {
+   "front": "git branch",
+   "back": "Lists branches; with a name it creates a new one.\n\n```!bash\ngit branch new-feature\n```"
+  },
+  {
+   "front": "git checkout",
+   "back": "Switches to another branch; with -b it creates it and switches to it.\n\n```!bash\ngit checkout -b new-feature\n```"
+  },
+  {
+   "front": "git merge",
+   "back": "Merges the history of another branch into the current one.\n\n```!bash\ngit merge new-feature\n```"
+  },
+  {
+   "front": "git log",
+   "back": "Shows the commit history; --oneline makes it compact.\n\n```!bash\ngit log --oneline\n```"
+  }
+ ],
+ "language": "en",
+ "count": 11
+}
