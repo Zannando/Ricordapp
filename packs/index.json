@@ -1,0 +1,290 @@
+{
+ "version": 1,
+ "packs": [
+  {
+   "id": "falsi-amici-inglese",
+   "category": "WORD",
+   "title": "Falsi amici inglese–italiano",
+   "description": "Parole inglesi che sembrano italiane ma vogliono dire altro.",
+   "lang": "en",
+   "language": "it",
+   "version": 1,
+   "count": 15,
+   "sample": [
+    "actually",
+    "eventually",
+    "sensible"
+   ],
+   "titles": [
+    "actually",
+    "eventually",
+    "sensible",
+    "library",
+    "factory",
+    "parents",
+    "argument",
+    "to pretend",
+    "morbid",
+    "educated",
+    "preservative",
+    "camera",
+    "magazine",
+    "to attend",
+    "lecture"
+   ]
+  },
+  {
+   "id": "scienziati",
+   "category": "NAME",
+   "title": "Grandi scienziati",
+   "description": "Chi erano e cosa hanno scoperto alcuni dei grandi della scienza.",
+   "lang": "",
+   "language": "it",
+   "version": 1,
+   "count": 12,
+   "sample": [
+    "Galileo Galilei",
+    "Isaac Newton",
+    "Charles Darwin"
+   ],
+   "titles": [
+    "Galileo Galilei",
+    "Isaac Newton",
+    "Charles Darwin",
+    "Marie Curie",
+    "Albert Einstein",
+    "Gregor Mendel",
+    "Louis Pasteur",
+    "Rosalind Franklin",
+    "Dmitrij Mendeleev",
+    "Enrico Fermi",
+    "Rita Levi-Montalcini",
+    "Niccolò Copernico"
+   ]
+  },
+  {
+   "id": "capitali-europa",
+   "category": "PLACE",
+   "title": "Capitali d'Europa",
+   "description": "Le capitali degli stati europei: dove si trovano, cosa le caratterizza, e la loro posizione sulla mappa.",
+   "lang": "",
+   "language": "it",
+   "version": 4,
+   "count": 30,
+   "sample": [
+    "Roma",
+    "Parigi",
+    "Berlino"
+   ],
+   "titles": [
+    "Roma",
+    "Parigi",
+    "Berlino",
+    "Madrid",
+    "Lisbona",
+    "Vienna",
+    "Berna",
+    "Bruxelles",
+    "Amsterdam",
+    "Varsavia",
+    "Praga",
+    "Budapest",
+    "Atene",
+    "Stoccolma",
+    "Oslo",
+    "Copenaghen",
+    "Helsinki",
+    "Dublino",
+    "Londra",
+    "Lubiana",
+    "Zagabria",
+    "Bucarest",
+    "Sofia",
+    "Tallinn",
+    "Riga",
+    "Vilnius",
+    "Bratislava",
+    "Reykjavík",
+    "La Valletta",
+    "Lussemburgo"
+   ]
+  },
+  {
+   "id": "biologia-base",
+   "category": "CONCEPT",
+   "title": "Biologia di base",
+   "description": "I concetti fondamentali della biologia, collegati tra loro.",
+   "lang": "",
+   "language": "it",
+   "version": 1,
+   "count": 13,
+   "sample": [
+    "Cellula",
+    "DNA",
+    "Gene"
+   ],
+   "titles": [
+    "Cellula",
+    "DNA",
+    "Gene",
+    "Mitosi",
+    "Meiosi",
+    "Fotosintesi",
+    "Cloroplasto",
+    "Mitocondrio",
+    "Respirazione cellulare",
+    "Enzima",
+    "Selezione naturale",
+    "Evoluzione",
+    "Omeostasi"
+   ]
+  },
+  {
+   "id": "costituzione-principi",
+   "category": "LAW",
+   "title": "Costituzione: i principi fondamentali",
+   "description": "I primi dodici articoli della Costituzione italiana, in breve.",
+   "lang": "",
+   "language": "it",
+   "version": 1,
+   "count": 12,
+   "sample": [
+    "Articolo 1 della Costituzione",
+    "Articolo 2 della Costituzione",
+    "Articolo 3 della Costituzione"
+   ],
+   "titles": [
+    "Articolo 1 della Costituzione",
+    "Articolo 2 della Costituzione",
+    "Articolo 3 della Costituzione",
+    "Articolo 4 della Costituzione",
+    "Articolo 5 della Costituzione",
+    "Articolo 6 della Costituzione",
+    "Articolo 7 della Costituzione",
+    "Articolo 8 della Costituzione",
+    "Articolo 9 della Costituzione",
+    "Articolo 10 della Costituzione",
+    "Articolo 11 della Costituzione",
+    "Articolo 12 della Costituzione"
+   ]
+  },
+  {
+   "id": "classici-italiani",
+   "category": "LITERATURE",
+   "title": "Classici italiani",
+   "description": "Le opere fondamentali della letteratura italiana, con autore e anno.",
+   "lang": "",
+   "language": "it",
+   "version": 1,
+   "count": 10,
+   "sample": [
+    "Divina Commedia",
+    "Canzoniere",
+    "Decameron"
+   ],
+   "titles": [
+    "Divina Commedia",
+    "Canzoniere",
+    "Decameron",
+    "Orlando furioso",
+    "Il principe",
+    "I promessi sposi",
+    "I Malavoglia",
+    "Il fu Mattia Pascal",
+    "La coscienza di Zeno",
+    "Il barone rampante"
+   ]
+  },
+  {
+   "id": "neorealismo",
+   "category": "MOVIE",
+   "title": "Il neorealismo",
+   "description": "I film del neorealismo italiano, con regia e anno.",
+   "lang": "",
+   "language": "it",
+   "version": 1,
+   "count": 8,
+   "sample": [
+    "Ossessione",
+    "Roma città aperta",
+    "Paisà"
+   ],
+   "titles": [
+    "Ossessione",
+    "Roma città aperta",
+    "Paisà",
+    "Sciuscià",
+    "Ladri di biciclette",
+    "La terra trema",
+    "Riso amaro",
+    "Umberto D."
+   ]
+  },
+  {
+   "id": "comandi-git",
+   "category": "CODE",
+   "title": "Comandi Git essenziali",
+   "description": "I comandi di Git che si usano ogni giorno.",
+   "lang": "",
+   "language": "it",
+   "version": 1,
+   "count": 11,
+   "sample": [
+    "git init",
+    "git clone",
+    "git status"
+   ],
+   "titles": [
+    "git init",
+    "git clone",
+    "git status",
+    "git add",
+    "git commit",
+    "git push",
+    "git pull",
+    "git branch",
+    "git checkout",
+    "git merge",
+    "git log"
+   ]
+  },
+  {
+   "id": "amminoacidi",
+   "category": "CHEMISTRY",
+   "title": "Amminoacidi",
+   "description": "I 20 amminoacidi standard: sigle, caratteristiche e la molecola da costruire.",
+   "lang": "",
+   "language": "it",
+   "version": 1,
+   "count": 21,
+   "sample": [
+    "Amminoacido",
+    "Glicina",
+    "Alanina"
+   ],
+   "titles": [
+    "Amminoacido",
+    "Glicina",
+    "Alanina",
+    "Valina",
+    "Leucina",
+    "Isoleucina",
+    "Prolina",
+    "Fenilalanina",
+    "Triptofano",
+    "Metionina",
+    "Serina",
+    "Treonina",
+    "Cisteina",
+    "Tirosina",
+    "Asparagina",
+    "Glutammina",
+    "Acido aspartico",
+    "Acido glutammico",
+    "Lisina",
+    "Arginina",
+    "Istidina"
+   ]
+  }
+ ]
+}

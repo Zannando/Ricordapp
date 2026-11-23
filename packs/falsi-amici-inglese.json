@@ -1,0 +1,87 @@
+{
+ "id": "falsi-amici-inglese",
+ "category": "WORD",
+ "title": "Falsi amici inglese–italiano",
+ "description": "Parole inglesi che sembrano italiane ma vogliono dire altro.",
+ "lang": "en",
+ "version": 1,
+ "cards": [
+  {
+   "front": "actually",
+   "lang": "en",
+   "back": "In realtà, effettivamente. Non significa «attualmente», che si dice currently."
+  },
+  {
+   "front": "eventually",
+   "lang": "en",
+   "back": "Alla fine, prima o poi. Non significa «eventualmente», che si dice possibly o if necessary."
+  },
+  {
+   "front": "sensible",
+   "lang": "en",
+   "back": "Assennato, ragionevole. «Sensibile» si dice sensitive."
+  },
+  {
+   "front": "library",
+   "lang": "en",
+   "back": "Biblioteca. La «libreria» (negozio) è bookshop o bookstore."
+  },
+  {
+   "front": "factory",
+   "lang": "en",
+   "back": "Fabbrica, stabilimento. Non è la «fattoria», che si dice farm."
+  },
+  {
+   "front": "parents",
+   "lang": "en",
+   "back": "Genitori. I «parenti» sono relatives."
+  },
+  {
+   "front": "argument",
+   "lang": "en",
+   "back": "Discussione, litigio; anche argomentazione. L'«argomento» di cui si parla è topic o subject."
+  },
+  {
+   "front": "to pretend",
+   "lang": "en",
+   "back": "Fingere. «Pretendere» si dice to demand o to expect."
+  },
+  {
+   "front": "morbid",
+   "lang": "en",
+   "back": "Macabro, morboso. «Morbido» si dice soft."
+  },
+  {
+   "front": "educated",
+   "lang": "en",
+   "back": "Istruito, colto. «Educato» nel senso di cortese si dice polite o well-mannered."
+  },
+  {
+   "front": "preservative",
+   "lang": "en",
+   "back": "Conservante (negli alimenti). Il «preservativo» si dice condom."
+  },
+  {
+   "front": "camera",
+   "lang": "en",
+   "back": "Macchina fotografica o videocamera. La «camera» da letto è room o bedroom."
+  },
+  {
+   "front": "magazine",
+   "lang": "en",
+   "back": "Rivista, periodico. Il «magazzino» si dice warehouse o storeroom."
+  },
+  {
+   "front": "to attend",
+   "lang": "en",
+   "back": "Frequentare, partecipare (a una lezione, un evento). «Attendere» si dice to wait."
+  },
+  {
+   "front": "lecture",
+   "lang": "en",
+   "back": "Lezione, conferenza. La «lettura» si dice reading."
+  }
+ ],
+ "count": 15,
+ "language": "it"
+}

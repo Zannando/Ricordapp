@@ -1,0 +1,142 @@
+{
+ "id": "classici-italiani",
+ "category": "LITERATURE",
+ "title": "Classici italiani",
+ "description": "Le opere fondamentali della letteratura italiana, con autore e anno.",
+ "lang": "",
+ "version": 1,
+ "cards": [
+  {
+   "front": "Divina Commedia",
+   "date": "1321",
+   "back": "Poema in terzine in cui Dante racconta il suo viaggio immaginario attraverso Inferno, Purgatorio e Paradiso. È considerato il testo fondativo della lingua italiana.",
+   "people": [
+    {
+     "role": "Autore",
+     "names": [
+      "Dante Alighieri"
+     ]
+    }
+   ]
+  },
+  {
+   "front": "Canzoniere",
+   "date": "1374",
+   "back": "Raccolta di 366 componimenti in volgare, in gran parte sonetti, dedicati soprattutto all'amore per Laura. Fu il modello della lirica europea per secoli.",
+   "people": [
+    {
+     "role": "Autore",
+     "names": [
+      "Francesco Petrarca"
+     ]
+    }
+   ]
+  },
+  {
+   "front": "Decameron",
+   "date": "1353",
+   "back": "Raccolta di cento novelle raccontate in dieci giornate da dieci giovani rifugiati fuori Firenze durante la peste del 1348.",
+   "people": [
+    {
+     "role": "Autore",
+     "names": [
+      "Giovanni Boccaccio"
+     ]
+    }
+   ]
+  },
+  {
+   "front": "Orlando furioso",
+   "date": "1532",
+   "back": "Poema cavalleresco in ottave che intreccia la follia d'amore di Orlando per Angelica con la guerra tra cristiani e saraceni. L'edizione definitiva è del 1532.",
+   "people": [
+    {
+     "role": "Autore",
+     "names": [
+      "Ludovico Ariosto"
+     ]
+    }
+   ]
+  },
+  {
+   "front": "Il principe",
+   "date": "1532",
+   "back": "Trattato politico scritto nel 1513 e pubblicato nel 1532: descrive come un principe conquista e mantiene il potere, separando la politica dalla morale.",
+   "people": [
+    {
+     "role": "Autore",
+     "names": [
+      "Niccolò Machiavelli"
+     ]
+    }
+   ]
+  },
+  {
+   "front": "I promessi sposi",
+   "date": "1840",
+   "back": "Romanzo storico ambientato in Lombardia nel Seicento: la vicenda di Renzo e Lucia, ostacolati da don Rodrigo. L'edizione definitiva, riscritta in fiorentino, è del 1840–1842.",
+   "people": [
+    {
+     "role": "Autore",
+     "names": [
+      "Alessandro Manzoni"
+     ]
+    }
+   ]
+  },
+  {
+   "front": "I Malavoglia",
+   "date": "1881",
+   "back": "Romanzo verista sulla famiglia di pescatori Toscano di Aci Trezza e sulle sue sventure dopo la perdita della barca, la Provvidenza.",
+   "people": [
+    {
+     "role": "Autore",
+     "names": [
+      "Giovanni Verga"
+     ]
+    }
+   ]
+  },
+  {
+   "front": "Il fu Mattia Pascal",
+   "date": "1904",
+   "back": "Romanzo in cui il protagonista, creduto morto, prova a costruirsi una nuova identità e scopre di non poter vivere fuori dalle convenzioni sociali.",
+   "people": [
+    {
+     "role": "Autore",
+     "names": [
+      "Luigi Pirandello"
+     ]
+    }
+   ]
+  },
+  {
+   "front": "La coscienza di Zeno",
+   "date": "1923",
+   "back": "Romanzo in forma di memoriale scritto su richiesta dello psicanalista: Zeno Cosini racconta il fumo, il matrimonio, gli affari, tra ironia e autoinganno.",
+   "people": [
+    {
+     "role": "Autore",
+     "names": [
+      "Italo Svevo"
+     ]
+    }
+   ]
+  },
+  {
+   "front": "Il barone rampante",
+   "date": "1957",
+   "back": "Romanzo in cui Cosimo Piovasco di Rondò, a dodici anni, sale sugli alberi per ribellione e decide di non scendere mai più.",
+   "people": [
+    {
+     "role": "Autore",
+     "names": [
+      "Italo Calvino"
+     ]
+    }
+   ]
+  }
+ ],
+ "count": 10,
+ "language": "it"
+}

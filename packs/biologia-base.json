@@ -1,0 +1,69 @@
+{
+ "id": "biologia-base",
+ "category": "CONCEPT",
+ "title": "Biologia di base",
+ "description": "I concetti fondamentali della biologia, collegati tra loro.",
+ "lang": "",
+ "version": 1,
+ "cards": [
+  {
+   "front": "Cellula",
+   "back": "L'unità più piccola di un essere vivente. Ha una membrana, il citoplasma e il materiale genetico ([[DNA]]); può essere procariote, senza nucleo, o eucariote, con nucleo."
+  },
+  {
+   "front": "DNA",
+   "back": "Acido desossiribonucleico: la molecola che conserva l'informazione genetica. È una doppia elica di nucleotidi (A, T, C, G); i tratti che codificano proteine si chiamano geni (vedi [[Gene]]).",
+   "parent": "Cellula"
+  },
+  {
+   "front": "Gene",
+   "back": "Tratto di [[DNA]] che contiene l'informazione per produrre una proteina o un RNA funzionale. È l'unità dell'ereditarietà.",
+   "parent": "DNA"
+  },
+  {
+   "front": "Mitosi",
+   "back": "Divisione di una [[Cellula]] in due cellule figlie identiche alla madre, con lo stesso numero di cromosomi. Serve alla crescita e alla riparazione dei tessuti."
+  },
+  {
+   "front": "Meiosi",
+   "back": "Divisione cellulare che produce i gameti, con metà dei cromosomi della cellula madre. Rimescola i geni ([[Gene]]) e genera variabilità.",
+   "parent": "Mitosi"
+  },
+  {
+   "front": "Fotosintesi",
+   "back": "Processo con cui piante, alghe e alcuni batteri usano la luce per produrre glucosio da anidride carbonica e acqua, liberando ossigeno. Avviene in un organulo, il [[Cloroplasto]]."
+  },
+  {
+   "front": "Cloroplasto",
+   "back": "Organulo delle cellule vegetali che contiene la clorofilla e svolge la [[Fotosintesi]].",
+   "parent": "Cellula"
+  },
+  {
+   "front": "Mitocondrio",
+   "back": "Organulo che produce gran parte dell'energia della cellula (ATP) con la [[Respirazione cellulare]]. Ha un proprio DNA.",
+   "parent": "Cellula"
+  },
+  {
+   "front": "Respirazione cellulare",
+   "back": "Processo che nel [[Mitocondrio]] demolisce il glucosio con l'ossigeno per produrre ATP, liberando anidride carbonica e acqua."
+  },
+  {
+   "front": "Enzima",
+   "back": "Proteina che accelera una reazione chimica nell'organismo senza consumarsi. Agisce su un substrato specifico."
+  },
+  {
+   "front": "Selezione naturale",
+   "back": "Meccanismo dell'[[Evoluzione]] descritto da Darwin: gli individui con caratteristiche più adatte all'ambiente sopravvivono e si riproducono di più, trasmettendole."
+  },
+  {
+   "front": "Evoluzione",
+   "back": "Cambiamento delle caratteristiche ereditarie delle popolazioni nel corso delle generazioni, guidato soprattutto dalla [[Selezione naturale]]."
+  },
+  {
+   "front": "Omeostasi",
+   "back": "Capacità di un organismo di mantenere stabili le condizioni interne (temperatura, glicemia, pH) al variare di quelle esterne."
+  }
+ ],
+ "count": 13,
+ "language": "it"
+}

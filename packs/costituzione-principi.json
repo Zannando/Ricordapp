@@ -1,0 +1,60 @@
+{
+ "id": "costituzione-principi",
+ "category": "LAW",
+ "title": "Costituzione: i principi fondamentali",
+ "description": "I primi dodici articoli della Costituzione italiana, in breve.",
+ "lang": "",
+ "version": 1,
+ "cards": [
+  {
+   "front": "Articolo 1 della Costituzione",
+   "back": "L'Italia è una Repubblica democratica fondata sul lavoro. La sovranità appartiene al popolo, che la esercita nelle forme e nei limiti della Costituzione."
+  },
+  {
+   "front": "Articolo 2 della Costituzione",
+   "back": "La Repubblica riconosce e garantisce i diritti inviolabili dell'uomo, come singolo e nelle formazioni sociali, e richiede l'adempimento dei doveri di solidarietà."
+  },
+  {
+   "front": "Articolo 3 della Costituzione",
+   "back": "Uguaglianza: tutti i cittadini hanno pari dignità sociale e sono uguali davanti alla legge, senza distinzioni di sesso, razza, lingua, religione, opinioni politiche, condizioni personali e sociali. La Repubblica deve rimuovere gli ostacoli che limitano di fatto libertà e uguaglianza."
+  },
+  {
+   "front": "Articolo 4 della Costituzione",
+   "back": "Diritto al lavoro: la Repubblica riconosce a tutti i cittadini il diritto al lavoro e ne promuove le condizioni; ogni cittadino ha il dovere di svolgere un'attività che concorra al progresso della società."
+  },
+  {
+   "front": "Articolo 5 della Costituzione",
+   "back": "La Repubblica, una e indivisibile, riconosce e promuove le autonomie locali e attua il decentramento amministrativo."
+  },
+  {
+   "front": "Articolo 6 della Costituzione",
+   "back": "La Repubblica tutela con apposite norme le minoranze linguistiche."
+  },
+  {
+   "front": "Articolo 7 della Costituzione",
+   "back": "Stato e Chiesa cattolica sono, ciascuno nel proprio ordine, indipendenti e sovrani; i loro rapporti sono regolati dai Patti Lateranensi."
+  },
+  {
+   "front": "Articolo 8 della Costituzione",
+   "back": "Tutte le confessioni religiose sono egualmente libere davanti alla legge; quelle diverse dalla cattolica hanno diritto di organizzarsi secondo i propri statuti, e i rapporti con lo Stato sono regolati da intese."
+  },
+  {
+   "front": "Articolo 9 della Costituzione",
+   "back": "La Repubblica promuove la cultura e la ricerca, tutela il paesaggio e il patrimonio storico e artistico; dal 2022 tutela anche l'ambiente, la biodiversità e gli ecosistemi, nell'interesse delle future generazioni."
+  },
+  {
+   "front": "Articolo 10 della Costituzione",
+   "back": "L'ordinamento italiano si conforma al diritto internazionale generalmente riconosciuto; lo straniero a cui nel suo paese sono negate le libertà democratiche ha diritto d'asilo in Italia."
+  },
+  {
+   "front": "Articolo 11 della Costituzione",
+   "back": "L'Italia ripudia la guerra come strumento di offesa e come mezzo di risoluzione delle controversie internazionali; consente limitazioni di sovranità per un ordinamento che assicuri pace e giustizia tra le nazioni."
+  },
+  {
+   "front": "Articolo 12 della Costituzione",
+   "back": "La bandiera della Repubblica è il tricolore italiano: verde, bianco e rosso, a tre bande verticali di eguali dimensioni."
+  }
+ ],
+ "count": 12,
+ "language": "it"
+}

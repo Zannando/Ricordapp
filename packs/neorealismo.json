@@ -1,0 +1,136 @@
+{
+ "id": "neorealismo",
+ "category": "MOVIE",
+ "title": "Il neorealismo",
+ "description": "I film del neorealismo italiano, con regia e anno.",
+ "lang": "",
+ "version": 1,
+ "cards": [
+  {
+   "front": "Ossessione",
+   "date": "1943",
+   "back": "Considerato il film che anticipa il neorealismo: un vagabondo e la moglie di un oste nella pianura padana, tratto da Il postino suona sempre due volte.",
+   "people": [
+    {
+     "role": "Regia",
+     "names": [
+      "Luchino Visconti"
+     ]
+    }
+   ]
+  },
+  {
+   "front": "Roma città aperta",
+   "date": "1945",
+   "back": "La Roma occupata dai nazisti e la Resistenza, girato subito dopo la liberazione. Vinse il Grand Prix a Cannes nel 1946.",
+   "people": [
+    {
+     "role": "Regia",
+     "names": [
+      "Roberto Rossellini"
+     ]
+    },
+    {
+     "role": "Interpreti",
+     "names": [
+      "Anna Magnani",
+      "Aldo Fabrizi"
+     ]
+    }
+   ]
+  },
+  {
+   "front": "Paisà",
+   "date": "1946",
+   "back": "Sei episodi sull'avanzata degli Alleati in Italia, dalla Sicilia al delta del Po, con molti attori non professionisti.",
+   "people": [
+    {
+     "role": "Regia",
+     "names": [
+      "Roberto Rossellini"
+     ]
+    }
+   ]
+  },
+  {
+   "front": "Sciuscià",
+   "date": "1946",
+   "back": "Due ragazzi lustrascarpe nella Roma del dopoguerra finiscono in riformatorio. Ottenne un Oscar onorario.",
+   "people": [
+    {
+     "role": "Regia",
+     "names": [
+      "Vittorio De Sica"
+     ]
+    }
+   ]
+  },
+  {
+   "front": "Ladri di biciclette",
+   "date": "1948",
+   "back": "Un disoccupato cerca per Roma, con il figlio, la bicicletta rubata che gli serve per lavorare. Oscar onorario al miglior film straniero.",
+   "people": [
+    {
+     "role": "Regia",
+     "names": [
+      "Vittorio De Sica"
+     ]
+    },
+    {
+     "role": "Sceneggiatura",
+     "names": [
+      "Cesare Zavattini"
+     ]
+    }
+   ]
+  },
+  {
+   "front": "La terra trema",
+   "date": "1948",
+   "back": "Liberamente tratto da I Malavoglia di Verga, racconta i pescatori di Aci Trezza, interpretati dagli abitanti del paese in dialetto siciliano.",
+   "people": [
+    {
+     "role": "Regia",
+     "names": [
+      "Luchino Visconti"
+     ]
+    }
+   ]
+  },
+  {
+   "front": "Riso amaro",
+   "date": "1949",
+   "back": "Il lavoro delle mondine nelle risaie vercellesi, intrecciato a una storia di furto e passione.",
+   "people": [
+    {
+     "role": "Regia",
+     "names": [
+      "Giuseppe De Santis"
+     ]
+    },
+    {
+     "role": "Interpreti",
+     "names": [
+      "Silvana Mangano",
+      "Vittorio Gassman"
+     ]
+    }
+   ]
+  },
+  {
+   "front": "Umberto D.",
+   "date": "1952",
+   "back": "Un pensionato solo con il suo cane lotta per non perdere la stanza in affitto: uno degli ultimi film del neorealismo.",
+   "people": [
+    {
+     "role": "Regia",
+     "names": [
+      "Vittorio De Sica"
+     ]
+    }
+   ]
+  }
+ ],
+ "count": 8,
+ "language": "it"
+}
